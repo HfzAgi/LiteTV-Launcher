@@ -252,6 +252,18 @@ public class MainActivity extends Activity {
                     }
                     RootShell.Result r = AdbManager.shell(MainActivity.this, "id", 10000);
                     Log.i("BERSIH", "SELFTEST " + (r.out.contains("uid=") ? "OK " : "GAGAL ") + r.out);
+                    String[] candidates = {"com.android.egg", "com.android.bips", "com.android.printspooler",
+                            "com.android.dreams.basic", "com.android.wallpaperbackup"};
+                    for (String pkg : candidates) {
+                        RootShell.Result d = Runner.run(MainActivity.this, "pm disable-user --user 0 " + pkg, 15000);
+                        if (d.out.contains("disabled")) {
+                            RootShell.Result e = Runner.run(MainActivity.this, "pm enable " + pkg, 15000);
+                            Log.i("BERSIH", "SELFTEST PM " + (e.out.contains("enabled") ? "OK " : "GAGAL ")
+                                    + pkg + " | " + d.out + " | " + e.out);
+                            return;
+                        }
+                    }
+                    Log.i("BERSIH", "SELFTEST PM GAGAL tidak ada paket uji yang bisa dinonaktifkan");
                 } catch (Throwable t) {
                     Log.i("BERSIH", "SELFTEST GAGAL: " + t);
                 }

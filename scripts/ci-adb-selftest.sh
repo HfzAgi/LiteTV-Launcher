@@ -9,7 +9,7 @@ adb shell am force-stop com.litetv.bersih
 adb shell am start -n com.litetv.bersih/.MainActivity --es selftest 1
 sleep 20
 adb logcat -d | grep -E "BERSIH|AndroidRuntime|FATAL" | tail -25
-if adb logcat -d | grep -q "BERSIH.*SELFTEST OK"; then
+if adb logcat -d | grep -q "BERSIH.*SELFTEST OK" && adb logcat -d | grep -q "BERSIH.*SELFTEST PM OK"; then
   echo "ADB-SELFTEST-RESULT: PASS"
 else
   echo "ADB-SELFTEST-RESULT: FAIL"

@@ -272,13 +272,21 @@ public class MainActivity extends Activity {
         Collections.sort(out, new Comparator<AppItem>() {
             @Override
             public int compare(AppItem a, AppItem b) {
-                if (a.tier != b.tier) return a.tier == AppItem.TIER_SUGGESTED ? -1
-                        : (b.tier == AppItem.TIER_SUGGESTED ? 1 : 0);
+                int ra = rank(a.tier);
+                int rb = rank(b.tier);
+                if (ra != rb) return ra < rb ? -1 : 1;
                 if (a.system != b.system) return a.system ? -1 : 1;
                 return a.label.compareToIgnoreCase(b.label);
             }
         });
         return out;
+    }
+
+    /** Urutan tampil: disarankan, lainnya, dilindungi. */
+    private static int rank(int tier) {
+        if (tier == AppItem.TIER_SUGGESTED) return 0;
+        if (tier == AppItem.TIER_OTHER) return 1;
+        return 2;
     }
 
     private void setFilter(int f) {

@@ -1,0 +1,12 @@
+# TCL Smart TV Pro, UK Freeview Play (BeyondTV4 / BeyondTV6, Realtek rtd288o, 2 GB, AR05)
+com.tcl.overseasappshow
+com.tcl.bi
+com.tcl.waterfall.overseas
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.dashboard
+com.tcl.notereminder
+com.tcl.guard
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.tvrecommendations

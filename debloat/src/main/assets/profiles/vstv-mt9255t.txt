@@ -1,0 +1,19 @@
+# VSTV MT9255T (MediaTek mt5862)
+com.vstv.diagnosis
+com.vstv.factory
+com.vstv.factory.test
+com.android.printspooler
+com.android.wallpaperbackup
+com.android.dreams.basic
+com.android.soundrecorder
+com.android.htmlviewer
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.proxyhandler
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.google.android.onetimeinitializer
+com.google.android.partnersetup
+com.vstv.tv.assistant
+com.google.android.katniss
+com.vs.phone.remote.search.assistants

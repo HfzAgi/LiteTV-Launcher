@@ -1,0 +1,27 @@
+# SHARP 2T-C32GH3000I (SHARP 2K Smart TV-A; Skyworth-built, beomil, MediaTek mt5867), Indonesia
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.Smartdevice.emanual
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.google.android.play.games
+com.amazon.amazonvideo.livingroom
+com.google.android.apps.mediashell
+com.smartdevice.dtv.icast
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx
+com.google.android.apps.tv.dreamx
+com.android.settings.intelligence
+com.google.android.partnersetup
+com.google.android.youtube.tvmusic
+com.tencent.qqlivei18n
+com.apple.atve.androidtv.appletv

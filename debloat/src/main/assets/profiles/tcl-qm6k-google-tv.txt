@@ -1,0 +1,26 @@
+# TCL QM6K Pro, 2025 (G08, MediaTek tcl9618)
+com.tcl.ttvs
+com.tcl.logkit
+com.tcl.usercenter
+com.tcl.tv.plus
+com.tcl.channelplus
+com.tcl.tv.tclhome_passive
+com.tcl.partnercustomizer
+com.tcl.interactive
+com.tcl.smartlink.core
+com.tcl.messagebox
+com.tcl.exhibit
+com.tcl.esticker
+com.tcl.hotelmenu
+com.tcl.ocean.instructions
+com.tcl.repairguide
+com.tcl.browser
+com.tcl.ui_mediaCenter
+com.tcl.smartalexa
+android.autoinstalls.config.google.gtvpai
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.apps.tv.dreamx
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith

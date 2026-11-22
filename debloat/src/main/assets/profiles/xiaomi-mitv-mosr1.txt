@@ -1,0 +1,7 @@
+# Xiaomi MiTV-MOSR1 (hermano)
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.google.android.feedback
+com.google.android.marvin.talkback
+fusion.android.tv.demo
+com.google.android.tvlauncher

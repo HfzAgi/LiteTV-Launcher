@@ -1,0 +1,20 @@
+# Sony BRAVIA XBR-55X850D (Android model "BRAVIA 4K 2015"), firmware 6.827
+tv.samba.ssm
+com.sony.dtv.sonyselect
+com.sony.dtv.discovery
+com.sony.dtv.bivlinfo
+com.sony.dtv.tvlaunchercustomizer
+com.google.android.tvrecommendations
+android.autoinstalls.config.sony.bravia
+com.sony.dtv.da.service
+com.qterics.da.product
+com.google.android.tv.bugreportsender
+com.google.android.feedback
+com.sony.dtv.b2b.vendorprotocol
+com.sony.dtv.smarthelp
+com.sony.dtv.imanual
+com.sony.dtv.osat.music
+com.google.android.videos
+com.google.android.play.games
+com.crackle.androidtv
+com.google.android.tvlauncher

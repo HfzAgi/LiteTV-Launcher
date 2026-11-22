@@ -1,0 +1,15 @@
+# Sony BRAVIA 4K VH21 (KD-43X80K, 2022, BRAVIA_VH21, MediaTek), Latin America
+tv.samba.ssm
+tv.samba.ssm.ui
+com.qterics.da.product
+com.sony.dtv.da.service
+com.google.android.feedback
+com.sony.dtv.multiscreendemo
+com.sony.dtv.ecodashboard
+com.sony.dtv.gestureapp
+com.sony.dtv.livingfit
+com.google.android.play.games
+com.google.android.videos
+tv.pluto.android
+com.eltelon.zapping
+com.google.android.tungsten.setupwraith

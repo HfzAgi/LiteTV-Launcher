@@ -1,0 +1,17 @@
+# Lumio Vision 7 55" (KTC ODM, Realtek, khardi, KTC_LUMIO_4K_EU_23GV1), India
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.realtek.storemode
+com.realtek.kara
+com.realtek.karaoke.userguide
+com.hk.gingaplayer.huangs
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.google.android.apps.tv.dreamx
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.katniss
+com.google.android.tungsten.setupwraith

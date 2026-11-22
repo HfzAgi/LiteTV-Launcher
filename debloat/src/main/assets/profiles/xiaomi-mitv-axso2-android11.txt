@@ -1,0 +1,26 @@
+# Xiaomi MiTV-AXSO2 (dangalUHD, Amlogic, India), Android 11 firmware RTT0.211201.001.1150
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.xiaomi.tvqs.overseas
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.xm.webcontent
+com.xiaomi.floatingframe
+co.sensara.tv.mitv
+com.google.android.tvrecommendations
+android.autoinstalls.config.xiaomi.amelie
+android.autoinstalls.config.xioami.dangal
+com.google.android.partnersetup
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.handbook
+com.xiaomo.tv.milegal
+com.xiaomi.mimusic2
+com.mitv.gallery
+com.google.android.videos
+com.google.android.play.games
+com.xiaomitv.sonyliv
+com.android.printspooler
+com.android.dreams.basic
+com.google.android.marvin.talkback

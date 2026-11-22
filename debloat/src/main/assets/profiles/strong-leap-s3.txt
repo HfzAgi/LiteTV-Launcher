@@ -1,0 +1,11 @@
+# Strong LEAP-S3 box (SkyworthDigital YDA, Amlogic S905Y4), Italy
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.oem.qa
+com.sdt.producttest
+com.amlogic.voicesubtitle
+com.android.tv.feedbackconsent
+com.google.android.play.games
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

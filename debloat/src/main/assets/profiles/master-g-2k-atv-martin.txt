@@ -1,0 +1,5 @@
+# Master-G Android TV 2K (Expressluck martin, MASTERG_2K_ATV), Chile
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.play.games

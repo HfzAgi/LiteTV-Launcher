@@ -1,0 +1,7 @@
+# Artel 43D1200B (Yandex TV / YaOS, CVTE, MediaTek m5621), Uzbekistan
+com.yandex.android.advid
+com.yandex.tv.bugreportsender
+com.yandex.prebuiltstub
+com.yandex.tv.daydream
+com.yandex.tv.webplayer
+com.yandex.tv.home

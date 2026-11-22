@@ -1,0 +1,12 @@
+# ENGY AI PONT (DVB64; Changhong build, set reports CHiQ, device alimos)
+com.homwee.store
+com.homwee.help
+tv.anoki.acr.anokiacroptin
+com.google.android.partnersetup
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.audiocn.karaoke.global.micmanager
+com.esaba.downloader
+com.google.android.tungsten.setupwraith

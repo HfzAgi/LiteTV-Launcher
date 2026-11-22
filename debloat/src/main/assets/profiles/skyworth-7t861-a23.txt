@@ -1,0 +1,6 @@
+# Skyworth 7T861_A23 (MediaTek MT9638), China market
+com.skyworth.device
+com.tianci.de
+com.tianci.ad
+com.coocaa.tvmanager
+com.coocaa.theme_package_ccos_nine

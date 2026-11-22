@@ -1,0 +1,27 @@
+# JVC LT-43KM348 (KTC-built, KTC_JVC_2K_25GV1, jagalchi, MediaTek mt5867 / T56)
+tv.anoki.acr.anokiacroptin
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.android.federatedcompute.services
+com.android.ondevicepersonalization.services
+com.mstar.android.tv.disclaimercustomization
+com.amazon.amazonvideo.livingroom
+com.google.android.videos
+com.google.android.play.games
+com.tcl.browser
+com.electronic.manual
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.android.health.connect.backuprestore
+com.android.healthconnect.controller
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.android.dynsystem
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.android.dreams.basic
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith
+com.google.android.apps.mediashell

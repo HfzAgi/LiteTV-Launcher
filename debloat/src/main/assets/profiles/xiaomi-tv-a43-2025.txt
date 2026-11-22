@@ -1,0 +1,26 @@
+# Xiaomi TV A43 2025 (MiTV-MOOQ1)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.xm.webcontent
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.smartshare
+com.mitv.milinkservice
+com.xiaomi.amazon.alexa
+android.autoinstalls.config.xiaomi.amelie
+fusion.android.tv.demo
+com.xiaomi.mimusic2
+com.google.android.feedback
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tv
+com.google.android.youtube.tvmusic
+com.google.android.videos
+ru.more.play
+com.vk.tv
+com.yandex.browser.tv
+com.google.android.tvlauncher
+com.google.android.tungsten.setupwraith

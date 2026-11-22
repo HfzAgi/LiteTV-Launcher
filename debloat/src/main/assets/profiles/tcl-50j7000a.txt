@@ -1,0 +1,26 @@
+# TCL 50J7000A (Thailand, BeyondTV, Realtek RT2851 / rtd285o, AR04, V8-R851T02-LF1V674)
+com.tcl.bi
+android.autoinstalls.config.tcl.device
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.tcl.tv.tclhome_passive
+com.tcl.waterfall.overseas
+com.tcl.overseasappshow
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.notereminder
+com.tcl.copydatatotv
+com.google.android.tvrecommendations
+com.google.android.videos
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.syncadapters.calendar
+com.amazon.amazonvideo.livingroom
+com.vectorunit.purple.googleplay
+com.doodle.turboracing3d
+com.xformgames.gokartgoair
+uk.co.powgames.gamecondiag
+com.google.android.katniss
+com.google.android.tv.assistant
+com.tcl.assistant

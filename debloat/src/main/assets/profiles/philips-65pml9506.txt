@@ -1,0 +1,25 @@
+# Philips 65PML9506/12 (TP Vision, PH1M_EA_9970A, MediaTek), Spain
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.usagelogger
+org.droidtv.tv.frameworklogger
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+org.droidtv.nettvrecommender
+org.droidtv.recommendation
+org.droidtv.nettv.market
+org.droidtv.nettvapp1814
+org.droidtv.nettvapp4546
+org.droidtv.nettvapp4655
+org.droidtv.nettvapp4932
+org.droidtv.nettvapp20004410
+org.droidtv.demome
+com.google.android.sss.authbridge
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.google.android.videos
+com.zeasn.whalelive
+com.boosteroidtv.streaming
+tv.wuaki.apptv
+org.droidtv.nettvapps

@@ -1,0 +1,4 @@
+# FFalcon (雷鸟) 鹏6 55S375C (China, 55" 4K, tc8000_ay30a2, Amlogic ohm TC8000, 3 GB)
+com.tcl.bootadservice
+com.tcl.bi
+com.tcl.logkit

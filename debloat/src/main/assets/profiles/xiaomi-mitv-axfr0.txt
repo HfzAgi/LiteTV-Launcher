@@ -1,0 +1,17 @@
+# Xiaomi MiTV-AXFR0 (rango, Amlogic, 1 GB), India
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.google.android.tvrecommendations
+android.autoinstalls.config.xioami.dangal
+com.mitv.tvlock
+com.xiaomi.mitv.tvmanager
+com.xiaomo.tv.milegal
+com.xiaomi.mitv.smartshare
+com.xiaomi.wfdsinkhelperservice
+com.mitv.milinkservice
+com.xiaomi.mimusic2
+com.sonyliv
+in.startv.hotstar

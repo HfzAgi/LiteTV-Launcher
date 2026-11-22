@@ -1,0 +1,20 @@
+# Hitachi CDH-LE32SMART21 (TCL-built C06, C06_2K_GB, MediaTek MT9221, 1 GB), Argentina
+com.google.android.feedback
+android.autoinstalls.config.tcl.device
+com.google.android.partnersetup
+com.google.android.tvrecommendations
+com.tcl.waterfall.overseas
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.useragreement
+com.tcl.guard
+com.google.android.apps.nbu.smartconnect.tv
+com.tcl.t_solo
+com.amazon.amazonvideo.livingroom
+com.google.android.apps.mediashell
+com.tcl.ui_mediaCenter
+com.tcl.videoplayer
+com.tcl.audioplayer
+com.tcl.imageplayer
+com.google.android.videos
+com.google.android.play.games

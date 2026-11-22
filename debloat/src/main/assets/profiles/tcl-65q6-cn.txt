@@ -1,0 +1,24 @@
+# TCL 65Q6 (China, 2019, sugarcane, MStar MS848)
+com.tcl.bi
+com.tcl.usagestats
+com.tcl.recognize.service
+com.tcl.c2dm.client
+com.android.tcl.messagebox
+com.tcl.tvhealthcheck
+com.tcl.xian.StartandroidService
+com.tcl.m
+com.tcl.bootadservice
+com.tcl.weixin
+com.tcl.gamecenter
+com.tcl.ffkaraoke
+com.tcl.ffeducation
+com.huan.edu.lexue.frontend
+com.tcl.tshop
+com.kugou.tv
+com.tcl.tclmusic
+com.vcinema.client.tv
+com.tcl.qiyiguo
+jd.video.basecomponent
+com.tcl.appreciate.art
+com.example.tvcapture
+com.iflytek.mictest

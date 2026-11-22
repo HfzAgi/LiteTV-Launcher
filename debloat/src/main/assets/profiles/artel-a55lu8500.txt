@@ -1,0 +1,11 @@
+# Artel A55LU8500 (device R3GS, MOKA, Realtek RTD2841A), Uzbekistan
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.realtek.leanbacklauncher.partnercustomizer
+android.autoinstalls.config.google.gtvpai
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.android.printspooler
+com.apps.wifihotspot

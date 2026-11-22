@@ -1,0 +1,12 @@
+# Vivensis VX Smart (`HYR2B-Vivensis`, SkyworthDigital, Realtek)
+com.google.android.feedback
+com.sdt.producttest
+com.android.camera2
+com.android.dreams.basic
+com.android.gallery3d
+com.android.music
+com.android.printspooler
+com.android.wallpaperbackup
+com.google.android.marvin.talkback
+com.google.android.play.games
+com.google.android.tts

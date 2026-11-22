@@ -1,0 +1,19 @@
+# SHARP 55GP6260E (Sharp Google TV, kaitak, MediaTek MTK9612), EU
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.partnersetup
+com.google.android.feedback
+fusion.android.tv.demo
+com.mtc.emanual
+com.mtc.emanual.overlay.ok
+com.google.android.syncadapters.calendar
+com.netflix.ninja
+com.disney.disneyplus
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tv
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.videos
+tv.twitch.android.app
+com.nordvpn.android
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

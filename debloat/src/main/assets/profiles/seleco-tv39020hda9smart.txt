@@ -1,0 +1,15 @@
+# Seleco TV39020HDA9SMART 39" (AT_SmartScreen, Toptech + Zeasn, Realtek RTK2842P), Italy
+com.zeasn.deviceportal.asdprovider.toptech
+android.autoinstalls.config.realtek.device
+com.zeasn.services.general
+cn.zeasn.toptech.rtk2851.vstoresubclient
+com.atmaca.atmretailmode
+com.android.printspooler
+com.android.camera2
+com.android.wallpaper.livepicker
+com.android.chrome
+com.rtk.mediabrowser
+com.netflix.mediaclient
+com.google.android.katniss
+com.rtk.android.miracast
+cn.zeasn.launcher.vstoresubclient.toptech

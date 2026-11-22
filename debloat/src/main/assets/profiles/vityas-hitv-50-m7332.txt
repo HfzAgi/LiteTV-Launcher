@@ -1,0 +1,21 @@
+# Vityas Hi TV 50 (KTC/KGZN build, board m7332)
+com.kgzn.inforeport
+com.zeasn.deviceportal.asdprovider.ktc
+cn.kgzn.asp.vstoresubclient
+com.example.android.bluetoothlegatt
+com.mstar.android.tv.disclaimercustomization
+com.google.android.katniss
+com.kgzn.castscreen
+com.kgzn.castscreen.overlay
+ru.rt.video.app.tv
+com.vk.tv
+ru.more.play
+com.kgzn.oobe
+com.mediatek.wwtv.setupwizard
+kgzn.factorymenu.ui
+mediatek.factorymenu.ui
+com.kgzn.tv.factory
+com.kgzn.serialport
+com.mediatek.bootvideo
+com.mediatek.loadingequalizer
+com.kgzn.mslauncher

@@ -1,0 +1,6 @@
+# Hisense VIDAA_TV (AMLOGICT963), China; retail model unconfirmed
+com.hisense.service.ad
+com.hisense.business.ad
+com.hisense.hitv.das
+com.hisense.platformreport
+com.hisense.logupload

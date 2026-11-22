@@ -1,0 +1,17 @@
+# AIWA AI PONT SA (Changhong, osaka, ISDB86AW)
+tv.anoki.acr.anokiacroptin
+com.google.android.apps.tv.dreamx
+com.google.android.partnersetup
+com.android.tv.feedbackconsent
+com.google.android.feedback
+com.homwee.store
+com.homwee.help
+com.homwee.upgrade
+com.homwee.multiscreenshare
+com.homwee.mmp.screenshare
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.syncadapters.calendar
+com.google.android.katniss
+com.google.android.apps.mediashell
+com.google.android.tungsten.setupwraith

@@ -1,0 +1,11 @@
+# JMGO N1S projector (K80A, holan, MediaTek m7332), Australia
+com.jmgo.spider
+com.jmgo.helpcenter
+com.jmgo.overseas.atmosphere
+fusion.android.tv.demo
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.play.games
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

@@ -1,0 +1,11 @@
+# NVIDIA SHIELD TV Pro 2019 (P2897, mdarcy)
+com.nvidia.stats
+com.nvidia.feedback
+com.nvidia.diagtools
+com.google.android.feedback
+android.autoinstalls.config.nvidia
+com.nvidia.nvgamecast
+com.nvidia.tegrazone3
+com.android.gallery3d
+com.android.printspooler
+com.google.android.tvlauncher

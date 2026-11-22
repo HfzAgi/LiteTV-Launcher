@@ -1,0 +1,8 @@
+# Formovie Laser 4K projector / Formovie Theater (hanlla, MediaTek T31 / m7632, 1.8 GB)
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+android.autoinstalls.config.fomovie
+android.autoinstalls.config.formovie
+com.google.android.tvrecommendations
+com.google.android.backdrop

@@ -1,0 +1,10 @@
+# Caxium 58" 147 cm UHD Smart TV (Realtek RTD285O, RTK2851P, TopTech + Zeasn), Colombia
+com.zeasn.services.general
+android.autoinstalls.config.realtek.device
+com.zeasn.deviceportal.asdprovider.toptech
+com.android.printspooler
+com.amazon.avod.thirdpartyclient
+com.disney.disneyplus
+com.spotify.tv.android
+com.facebook.katana
+com.google.android.katniss

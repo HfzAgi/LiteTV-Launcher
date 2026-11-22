@@ -1,0 +1,27 @@
+# Sber Salute TV 43" (CVTE TP.T962D4.PC756, Amlogic T962D4, at30a6, 2 GB), Russia
+ru.sberdevices.music
+ru.sberdevices.starlivetv
+ru.sberdevices.startube
+ru.sberdevices.videos
+ru.sberdevices.sberplay
+ru.sberdevices.subscriptions
+ru.sberdevices.starkidsroom.prod
+ru.sberdevices.parentcontrol
+ru.sberdevices.starprofile
+ru.sberdevices.smarthome.promo
+com.salute.star
+ru.sberdevices.starbrowser
+ru.sberdevices.starmarket
+ru.sberdevices.tv
+ru.sberdevices.starscreensaver
+ru.sberdevices.survey
+ru.sberdevices.openbeta
+ru.sberdevices.bugreporter
+ru.sberdevices.starcleaner
+ru.sberdevices.rcfupdater
+ru.sberdevices.gamepad.service
+ru.sberdevices.huaweicast
+com.maxhub.screenshare.server.tv
+com.screenshare.platform
+com.cvte.dssshare.dlna
+ru.sberdevices.starlauncher

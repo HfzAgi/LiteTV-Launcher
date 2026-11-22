@@ -1,0 +1,16 @@
+# Philips 50PUF7099/T3 (TPV EBONY_V560, Hisilicon), China
+com.tpv.asc.aiot
+com.hpplay.happyplay.aw
+org.droidtv.camera.cn
+com.tpv.asc.videocall.cn
+tv.fun.bugreporter
+org.droidtv.usagelogger
+com.tpv.asc.taadserver
+com.tianci.ad
+com.tpv.app.recommendation
+com.funshion.publicity
+tv.fun.master
+tv.fun.ottsecurity
+tv.newtv.loginservice
+tv.fun.appstore
+tv.fun.sdkmanager

@@ -1,0 +1,16 @@
+# Salora SMART24TV / Hitachi 32HAK4258 (Vestel-built, Ata/Aslan, tokyo, MediaTek m5621), Italy
+com.vestel.vestelreporter
+com.vestel.tv.speedup
+com.mstar.android.tv.disclaimercustomization
+android.autoinstalls.config.vestel.cosmos
+com.vestel.tv.eib
+com.google.android.feedback
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.google.android.videos
+com.google.android.play.games
+com.mediatek.tv.freeviewplay
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.partnercustomizer
+com.google.android.backdrop
+com.google.android.tvlauncher

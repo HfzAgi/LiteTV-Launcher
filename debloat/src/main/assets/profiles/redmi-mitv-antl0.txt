@@ -1,0 +1,12 @@
+# Redmi TV (MiTV-ANTL0, starwars)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs
+com.xiaomi.mitv.tvpush.tvpushservice
+com.xm.webcontent
+com.mitv.cloudcontrol
+com.mitv.shoplugin
+com.mitv.screensaver
+com.xiaomi.mitv.upgrade
+com.xiaomi.mitv.tvmanager
+com.xiaomi.gamecenter.sdk.service.mibox

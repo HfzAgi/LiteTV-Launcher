@@ -1,0 +1,8 @@
+# X.Vision 50XYU765 (XYU Series, MAADIRAN; CVTE TP.MT9632.PC752, MediaTek m7332, 1.5 GB), Iran
+com.cvte.wonder.cloud.service
+com.cvte.tv.pictorial
+com.cvte.tv.steward
+com.cvte.tv.weather
+fusion.android.tv.demo
+com.cvte.tv.remotedebug
+com.google.android.feedback

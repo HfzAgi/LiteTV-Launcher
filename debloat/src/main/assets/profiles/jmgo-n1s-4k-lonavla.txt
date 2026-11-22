@@ -1,0 +1,11 @@
+# JMGO N1S 4K projector (S91A, lonavla, MediaTek m7632)
+com.jmgo.spider
+com.jmgo.helpcenter
+fusion.android.tv.demo
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

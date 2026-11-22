@@ -1,0 +1,18 @@
+# Sankey SMART2KTVSE (Whale OS, SiliconPlayer am30bm)
+com.zeasn.whaletrackservice
+com.zeasn.whaleservice
+com.zeasn.tokenapp
+com.zeasn.hotelmodelservice
+com.zeasn.deviceportal.asdprovider.certified
+com.zeasn.tv.cast
+com.zeasn.whaleos.settings
+com.hikeen.factorymenu
+com.hikeen.factoryautomation
+com.hikeen.middleware.server
+com.whaletv.aivoice
+com.whaletv.web.app_runtime
+com.android.adservices.api
+com.mirakulo.astrotv.service
+com.droidlogic.updater
+com.droidlogic.appinstall
+com.whaletv.launcher

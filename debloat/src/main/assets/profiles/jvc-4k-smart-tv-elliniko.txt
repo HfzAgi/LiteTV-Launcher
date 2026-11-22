@@ -1,0 +1,11 @@
+# JVC 4K Smart TV (KTC, MediaTek merak / mt5896, elliniko, KTC_JVC_4K_24GV1)
+tv.anoki.acr.controller
+com.google.android.feedback
+com.google.android.partnersetup
+android.autoinstalls.config.google.gtvpai
+com.mediatek.tv.retaildemo
+com.electronic.manual
+com.google.android.play.games
+com.google.android.apps.tv.dreamx
+com.google.android.katniss
+com.google.android.tungsten.setupwraith

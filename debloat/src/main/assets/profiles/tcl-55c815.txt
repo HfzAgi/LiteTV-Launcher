@@ -1,0 +1,19 @@
+# TCL 55C815 (2020, Europe/Denmark, BeyondTV2, Realtek rtd285o)
+com.tcl.bi
+android.autoinstalls.config.tcl.device
+com.google.android.feedback
+com.google.android.partnersetup
+com.tcl.tv.tclhome_passive
+com.tcl.waterfall.overseas
+com.tcl.overseasappshow
+com.tcl.messagebox
+com.tcl.esticker
+com.google.android.tvrecommendations
+com.google.android.videos
+com.google.android.play.games
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+com.tcl.copydatatotv
+com.hbo_android_tv
+com.hbo.hbonow
+com.google.android.backdrop

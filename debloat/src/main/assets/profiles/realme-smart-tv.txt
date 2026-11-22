@@ -1,0 +1,21 @@
+# realme Smart TV (SW4H_FF, Skyworth board, MediaTek m7332)
+com.smartdevice.epopplayer
+fusion.android.tv.demo
+com.smartdevice.speedchannels
+com.smartdevice.acr.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.google.android.leanbacklauncher.partnercustomizer
+com.mediatek.wwtv.tvrecommendation
+com.google.android.tvrecommendations
+com.mstar.android.tv.disclaimercustomization
+com.google.android.boot.appsplashscreen
+com.google.android.feedback
+android.autoinstalls.config.SW
+com.homwee.howtocast
+com.qjy.browser
+com.google.android.videos
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.onetimeinitializer
+com.mediatek.wwtv.setupwizard
+com.google.android.tvlauncher

@@ -1,0 +1,25 @@
+# Grundig Android UHD TV (Arçelik, GxGrNM, kunyang, MediaTek), Turkey
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+android.autoinstalls.config.arcelik.gx
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.grundig.tv.channel
+com.arcelik.arserviceapp
+com.arcelik.tvcarehub
+com.mstar.android.tv.disclaimercustomization
+com.google.android.syncadapters.calendar
+com.google.android.onetimeinitializer
+com.google.android.youtube.tvkids
+com.google.android.videos
+com.google.android.play.games
+com.google.android.katniss
+com.google.android.tv.assistant
+com.ionitech.airscreen
+com.sand.aircasttv
+com.arcelik.smartremotecompanion.grundig
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
+com.google.android.backdrop

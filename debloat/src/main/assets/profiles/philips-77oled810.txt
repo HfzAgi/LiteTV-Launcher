@@ -1,0 +1,25 @@
+# Philips 77OLED810/12 (TPV, PH1M_WW_9972, MediaTek), Germany
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.tv.frameworklogger
+com.google.android.feedback
+tv.samba.ssm
+com.tpv.nftgallery
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.google.android.play.games
+org.droidtv.amazonalexa
+com.phorus.playfi.tv
+com.phorus.playfi.softap
+org.droidtv.ipcontrol
+io.mimi.sdk.service
+org.droidtv.astrahdplus
+org.droidtv.m7opapp
+org.droidtv.control4app
+org.droidtv.control4adapterservice
+org.droidtv.control4sddp
+org.droidtv.control4UcService
+org.droidtv.matter
+com.google.android.syncadapters.calendar
+com.google.android.tungsten.setupwraith
+org.droidtv.oemtabprovider

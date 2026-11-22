@@ -1,0 +1,23 @@
+# Noblex DR55X9500 (Skyworth SW6H, MediaTek m7332, same board and firmware as `prismplus-p4ka-sw6h/`), Argentina
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.apps.nbu.smartconnect.tv
+com.smartdevice.aftersale
+com.smartdevice.dailymanage
+com.google.android.katniss
+com.google.android.tv.assistant
+com.smartdevice.leanbacklauncher.customizer
+android.autoinstalls.config.google.gtvpai
+com.smartdevice.epopplayer
+fusion.android.tv.demo
+com.coocaa.demonow.lightining
+com.Smartdevice.emanual
+com.mstar.android.tv.disclaimercustomization
+com.google.android.videos
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.apps.tv.dreamx
+com.smartdevice.dtv.icast
+com.mediatek.androidbox
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith

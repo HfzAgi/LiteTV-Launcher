@@ -1,0 +1,15 @@
+# CHiQ AI PONT (Changhong GTVU65, dangni, MediaTek mt5867); also CHiQ L32FM10V
+android.autoinstalls.config.google.gtvpai
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+tv.anoki.acr.anokiacroptin
+com.homwee.store
+com.homwee.help
+com.android.printspooler
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.iqiyi.i18n.tv
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx
+com.mediatek.android.leanbacklauncher.partnercustomizer

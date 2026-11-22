@@ -1,0 +1,12 @@
+# Xiaomi MiTV-MSSP0 / Xiaomi Mi TV 4A 32 (amelie), firmware PI.5926
+com.xiaomi.statistic
+com.google.android.tv.bugreportsender
+com.xm.webcontent
+com.xiaomi.floatingframe
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.google.android.katniss
+com.google.android.speech.pumpkin
+com.xiaomi.mitv.mediaexplorer
+com.mitv.gallery
+com.google.android.backdrop

@@ -1,0 +1,27 @@
+# RCA AI PONT SA (Changhong, redwood, ISDB92RC; also sold as realme 40-inch, AIWA AW32B4SMG, CHiQ AI PONT DVB92CQ and ERGO DVB92YC)
+com.homwee.aipont
+com.homwee.store
+com.homwee.help
+com.homwee.chinstallapk
+com.homwee.chtvmanager
+com.homwee.upgrade
+com.homwee.dmt.upgrade
+android.autoinstalls.config.homwee
+com.homwee.mmp.screenshare
+com.homwee.multiscreenshare
+com.homwee.mmp.fileexplorer
+com.homwee.mmp.imageplayer
+tv.anoki.acr.anokiacroptin
+com.cltv.fast
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.google.android.tungsten.setupwraith
+com.google.android.katniss
+com.homwee.alexacontrol
+com.google.android.tts
+com.google.android.marvin.talkback
+com.google.android.backdrop
+com.google.android.syncadapters.calendar
+com.google.android.tv.remote.service

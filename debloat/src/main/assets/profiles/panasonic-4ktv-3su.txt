@@ -1,0 +1,21 @@
+# Panasonic 4KTV-3SU (Skyworth-built SW6H, MediaTek, same board as `thomson-sppl-4k-sw6h/`), ~1.9 GB
+com.android.tv.feedbackconsent
+com.smartdevice.aftersale
+com.smartdevice.dailymanage
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+android.autoinstalls.config.google.gtvpai
+com.smartdevice.epopplayer
+fusion.android.tv.demo
+com.coocaa.demonow.lightining
+com.Smartdevice.emanual
+com.mstar.android.tv.disclaimercustomization
+com.smartdevice.myapp
+com.smartdevice.setupwraith
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.google.android.syncadapters.calendar
+com.google.android.play.games

@@ -1,0 +1,16 @@
+# Philips 55OLED820/12 (TPV, PH1M_WW_9972, MediaTek), Czech Republic
+tv.samba.ssm
+org.droidtv.amazonalexa
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.apps.tv.dreamx
+com.google.android.syncadapters.calendar
+com.tpv.nftgallery
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.netflix.ninja
+com.netflix.tokenmanager

@@ -1,0 +1,15 @@
+# Xiaomi TV S Pro 100 Mini LED 2025 (小米电视 S Pro 100, L100MB-SP, MiTV-MFFU0, finch, MediaTek), China firmware OS3.0.115.0.UFFMATV, 4 GB RAM
+com.miui.analytics
+com.miui.tv.analytics
+com.miui.misightservice
+com.xiaomi.tvqs
+com.mitv.cloudcontrol
+com.duokan.videodaily
+com.mitv.shoplugin
+com.xiaomi.mitv.shop
+com.xm.webcontent
+com.xiaomi.tv.gallery
+com.xiaomi.aitranslate
+com.mitv.alarmcenter
+com.xiaomi.mitv.health
+com.xiaomi.gamecenter.sdk.service.mibox

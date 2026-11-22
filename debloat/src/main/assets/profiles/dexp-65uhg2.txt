@@ -1,0 +1,17 @@
+# DEXP 65UHG2 (HKC 4K PA Google TV, HKC_4K_GTV_PA, lakeside)
+fusion.android.tv.demo
+fusion.android.tv.demo2
+com.cvte.tv.hkcfac
+com.at.factory.factorymanager
+com.at.factory.androidtvaidlservice
+mediatek.factorymenu.ui
+com.cvte.tv.at
+com.cvte.tv.hotel
+tv.anoki.acr.anokiacroptin
+com.mediatek.androidbox
+com.hkc.tv.hkc_help
+com.mstar.android.tv.disclaimercustomization
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

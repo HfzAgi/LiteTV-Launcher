@@ -1,0 +1,7 @@
+# Tesla Smart TV Q55E655GUS (Expressluck, sepolia, mt5896)
+tv.anoki.acr.anokiacroptin
+com.mediatek.tv.retaildemo
+com.audiocn.karaoke.global.micmanager
+com.google.android.play.games
+com.tcl.browser
+com.google.android.tungsten.setupwraith

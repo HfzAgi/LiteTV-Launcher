@@ -1,0 +1,11 @@
+# TiVo Stream 4K (SEI Robotics IPA1104HDW, SEI400TV, Amlogic S905Y2, NES)
+com.google.android.feedback
+com.google.android.partnersetup
+com.nes.tvbugtracker
+com.nes.coreservice
+com.nes.daemon
+com.tivo.sageservice
+com.google.android.tvrecommendations
+android.autoinstalls.config.sei
+com.android.printspooler
+com.google.android.marvin.talkback

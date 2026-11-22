@@ -1,0 +1,21 @@
+# TD Systems (Changhong, redwood, DVB92TD, CH17F40S)
+com.homwee.aipont
+com.homwee.store
+com.homwee.help
+com.homwee.chinstallapk
+com.homwee.chtvmanager
+android.autoinstalls.config.homwee
+com.homwee.alexacontrol
+com.homwee.mmp.screenshare
+com.homwee.multiscreenshare
+tv.anoki.acr.anokiacroptin
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.google.android.tvrecommendations
+com.google.android.youtube.tvmusic
+com.google.android.play.games

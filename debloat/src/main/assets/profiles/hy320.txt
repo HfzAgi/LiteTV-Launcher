@@ -1,0 +1,24 @@
+# HY320 projector (t950s_be311, Google-certified Android TV)
+com.jiumao.screen.systemadplayer
+com.smart.tv.launcher
+com.ht1.launcher
+com.master.apps
+com.master.tv.market
+com.overseas.store.appstore
+com.android.mgstv
+com.fb
+com.define.shellservice
+com.jm.jmlauncher
+com.android.printspooler
+com.android.wallpaperbackup
+com.android.camera2
+com.android.hotspot2.osulogin
+com.android.soundpicker
+com.android.htmlviewer
+com.spocky.projengmenu
+com.droidlogic.videoplayer
+com.droidlogic.imageplayer
+com.android.chrome
+com.google.android.youtube.tvmusic
+com.amazon.avod.thirdpartyclient
+org.videolan.vlc

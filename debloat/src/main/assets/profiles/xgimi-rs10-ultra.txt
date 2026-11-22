@@ -1,0 +1,22 @@
+# XGIMI RS10 Ultra projector (device pig_chivalrous, MediaTek m7642), China
+com.xgimi.adservice
+com.xgimi.datareporter
+com.xgimi.bugreportsender
+com.xgimi.msgcenter
+com.xgimi.instruction30
+com.xgimi.activitypage
+cn.com.wasu.main
+com.gitv.dvb.live
+com.hunantv.license
+com.ktcp.tvvideo
+com.xgimi.doubanfm
+com.netease.cloudmusic.tv
+com.tencent.qqmusicjimisdk
+com.xgimi.karaokesdk
+com.xgimi.stream.video
+com.xgimi.atmosphere
+com.xgimi.newappmarket
+com.xgimi.account
+com.xgimi.user
+com.xgimi.payview
+com.android.printspooler

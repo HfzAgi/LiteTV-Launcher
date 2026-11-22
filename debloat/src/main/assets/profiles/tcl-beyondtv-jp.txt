@@ -1,0 +1,19 @@
+# TCL 50P8S (BeyondTV), Japan (Realtek RTD2851, V8-R851T03-LF1V153)
+com.tcl.bi
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.onetimeinitializer
+android.autoinstalls.config.tcl.device
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.tcl.esticker
+com.tcl.waterfall.overseas
+com.tcl.copydatatotv
+com.tcl.eletronicpolicy
+com.google.android.videos
+com.google.android.play.games
+com.google.android.music
+com.android.printspooler
+com.google.android.partnersetup
+com.google.android.backdrop
+com.tcl.tvweishi

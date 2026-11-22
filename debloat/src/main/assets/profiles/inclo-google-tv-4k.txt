@@ -1,0 +1,8 @@
+# INCLO Google TV 4K (KTC, Realtek, khardi, KTC_INCLO_4K_EU_23GV1), Taiwan
+android.autoinstalls.config.google.gtvpai
+com.realtek.leanbacklauncher.partnercustomizer
+com.google.android.feedback
+com.realtek.storemode
+com.electronic.manual
+com.google.android.play.games
+com.google.android.tungsten.setupwraith

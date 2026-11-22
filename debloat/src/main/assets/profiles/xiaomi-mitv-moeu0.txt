@@ -1,0 +1,20 @@
+# Xiaomi TV S Mini LED 75 2025 (MiTV-MOEU0, ladybird, MediaTek)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.android.tv.feedbackconsent
+com.google.android.feedback
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.xiaomi.mitv.manualhelp
+android.autoinstalls.config.google.gtvpai
+com.xiaomi.mitv.tvmanager
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.xiaomi.mimusic2
+com.mitv.gallery
+com.mitv.videoplayer
+com.xiaomi.mitv.mediaexplorer
+com.google.android.tungsten.setupwraith

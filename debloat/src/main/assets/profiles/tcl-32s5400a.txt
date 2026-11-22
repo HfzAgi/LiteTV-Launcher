@@ -1,0 +1,15 @@
+# TCL 32S5400A (C06, C06_2K_GB, MediaTek MT9221, 1 GB), 2023
+com.tcl.usercenter
+com.tcl.guard
+com.tcl.partnercustomizer
+com.tcl.waterfall.overseas
+com.tcl.esticker
+com.tcl.audioplayer
+com.tcl.imageplayer
+com.tcl.copydatatotv
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.sonyliv
+com.yupptv.scope.tvapp

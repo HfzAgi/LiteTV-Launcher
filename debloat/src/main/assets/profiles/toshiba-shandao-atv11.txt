@@ -1,0 +1,4 @@
+# Toshiba Android TV (Vestel shandao, MediaTek), UK, build RTM6.230109.207
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic

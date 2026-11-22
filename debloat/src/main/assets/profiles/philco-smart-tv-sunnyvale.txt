@@ -1,0 +1,13 @@
+# Philco Smart TV (Skyworth-built, sunnyvale, MediaTek; also sold as the Britania Smart TV), Brazil
+fusion.android.tv.demo
+com.coocaa.demonow.lightining
+com.smartdevice.leanbacklauncher.customizer
+com.smartdevice.recommendation
+android.autoinstalls.config.SW
+com.Smartdevice.emanual
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.tvrecommendations

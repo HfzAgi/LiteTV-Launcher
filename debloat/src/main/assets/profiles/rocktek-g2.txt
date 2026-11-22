@@ -1,0 +1,18 @@
+# RockTek G2 (RT-G2, SEI Robotics/NES, SEI804RT, YYJ, Amlogic S905X4)
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.nes.bugreportsender
+android.autoinstalls.config.sei
+com.nes.leanbacklauncher.partnercustomizer
+com.android.printspooler
+com.google.android.syncadapters.calendar
+com.google.android.marvin.talkback
+com.utsmta.app
+com.nes.dvb.playtest
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
+com.google.android.backdrop

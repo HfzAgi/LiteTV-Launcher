@@ -1,0 +1,22 @@
+# TCL Smart TV (G06, G06_2K_US, MediaTek MT9221 / T221, AR2101, V8-T221T04-LF1V122), US firmware
+com.tcl.esticker
+com.tcl.partnercustomizer
+com.tcl.messagebox
+com.tcl.dashboard
+com.tcl.useragreement
+com.tcl.guard
+com.tcl.copydatatotv
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+com.google.android.apps.nbu.smartconnect.tv
+android.autoinstalls.config.google.gtvpai
+com.tcl.channelplus
+com.tcl.tv.tclchannel
+com.tcl.tv.plus
+com.google.android.videos
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.tcl.t_solo
+com.google.android.tungsten.setupwraith

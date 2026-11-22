@@ -1,0 +1,14 @@
+# Epson EF-21 laser projector (SDMC, HB35, himalaya, MediaTek m7332)
+com.android.adservices.api
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mstar.android.tv.disclaimercustomization
+com.google.android.play.games
+com.google.android.katniss
+com.google.android.apps.mediashell
+com.google.android.apps.tv.dreamx
+com.google.android.syncadapters.calendar
+com.google.android.marvin.talkback
+com.google.android.tts
+com.google.android.tungsten.setupwraith

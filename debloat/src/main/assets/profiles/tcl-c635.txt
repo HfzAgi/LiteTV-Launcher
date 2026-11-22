@@ -1,0 +1,14 @@
+# TCL C635 (Smart TV Pro, BeyondTV4, Realtek rtd288o, Android 11/SDK 30), Brazil
+com.tcl.overseasappshow
+com.tcl.bi
+com.tcl.logkit
+com.tcl.waterfall.overseas
+com.tcl.channelplus
+com.tcl.partnercustomizer
+com.google.android.partnersetup
+com.tcl.browser
+com.tcl.gallery
+com.tcl.esticker
+com.tcl.ocean.instructions
+com.tcl.useragreement
+com.tcl.factory.view

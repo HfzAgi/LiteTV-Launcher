@@ -1,0 +1,7 @@
+# SunWind SUN-LED32XS305 32" (Yandex TV / YaOS, CVTE TP.MT9256.PB721, MediaTek MT9256), Russia
+com.yandex.android.advid
+com.yandex.tv.bugreportsender
+com.yandex.tv.daydream
+com.yandex.prebuiltstub
+com.yandex.tv.webplayer
+com.yandex.tv.alice

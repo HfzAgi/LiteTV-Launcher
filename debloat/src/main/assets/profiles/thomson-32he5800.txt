@@ -1,0 +1,23 @@
+# Thomson 32HE5800 (TCL-built UnionTV, Realtek RT2841), Spain
+com.tcl.bi
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+android.autoinstalls.config.tcl.device
+com.google.android.partnersetup
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.tcl.appmarket2
+com.tcl.usercenter
+com.tcl.esticker
+com.tcl.useragreement
+com.tcl.waterfall.overseas
+com.tcl.tvweishi
+com.google.android.play.games
+com.google.android.music
+com.google.android.videos
+com.tcl.ui_mediaCenter
+com.tcl.videoplayer
+com.tcl.audioplayer
+com.tcl.imageplayer
+com.google.android.katniss
+com.google.android.speech.pumpkin

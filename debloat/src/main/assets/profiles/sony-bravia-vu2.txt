@@ -1,0 +1,16 @@
+# Sony BRAVIA VU2 (BRAVIA_VU2, Realtek rtd2885m), India
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.sony.dtv.multiscreendemo
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.android.printspooler
+com.android.camera2
+com.android.gallery3d
+com.android.wallpaper.livepicker
+com.google.android.tts
+com.google.android.videos
+com.google.android.backdrop
+com.google.android.tvlauncher
+com.google.android.tvrecommendations

@@ -1,0 +1,11 @@
+# Artel smart TV (CVTE TP.MT5510S.PB782, cvt_mt5863_eu, SMART_TV), Uzbekistan
+com.netflix.ninja
+net.megogo.tv
+uz.allplay.apptv
+uz.i_tv.player
+ag.kinom
+com.fgl27.twitch
+com.fgol.HungrySharkEvolution
+com.google.android.marvin.talkback
+com.svox.pico
+com.google.android.voicesearch

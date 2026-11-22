@@ -1,0 +1,22 @@
+# TCL BeyondTV2, Android 11 build (AR05, Realtek rtd285o); also sold as the Hitachi CDH-LE554KSMART22 (Argentina); also the TCL 65P615 (product BeyondTV, ME firmware) and the TCL 43A8 (product BeyondTV, AR04)
+com.tcl.overseasappshow
+com.tcl.bi
+com.tcl.tv.tclhome_passive
+com.tcl.waterfall.overseas
+com.tcl.guard
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.tv.tclhome_master
+com.tcl.notereminder
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.katniss
+com.google.android.tv.assistant
+com.tcl.assistant
+com.tcl.micmanager
+com.tcl.smartalexa
+com.tcl.miracast
+com.tcl.MultiScreenInteraction_TV
+com.google.android.tv.remote.service
+com.google.android.backdrop
+com.google.android.apps.nbu.smartconnect.tv

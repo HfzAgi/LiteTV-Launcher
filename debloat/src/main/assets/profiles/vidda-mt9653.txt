@@ -1,0 +1,26 @@
+# Vidda VIDAA_TV (Hisense sub-brand; device MT9653, board mt5879), China JuUI
+com.hisense.hitv.das
+com.hisense.platformreport
+com.hisense.logupload
+com.hisense.service.hproxy
+com.hisense.service.message
+com.hisense.business.ad
+com.hisense.service.ad
+com.hisense.widget.pro
+com.hisense.tv.weather
+com.hisense.demonstrate
+com.hisense.hotelmenu
+com.meetingroom
+com.hisense.autotest
+com.hisense.electronictutorial
+com.hisense.ar.baike
+com.jamdeo.tv.fte
+com.hisense.usbupgrade
+com.hisense.tv.videoconference
+com.hisense.tv.fitmirror
+com.hisense.tv.foodmanage
+com.jamdeo.calendar
+com.vision.aibook
+com.jamdeo.screensaver
+com.android.printspooler
+com.keylab.speech.view.vidaa

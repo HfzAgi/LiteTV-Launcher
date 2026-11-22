@@ -1,0 +1,14 @@
+# XGIMI Vibe One projector (WM03H, altai, MediaTek m7332)
+fusion.android.tv.demo
+com.xgimi.atvwifiverify
+com.xgimi.minitvfactory
+com.xgimi.yg.minitvfactory
+com.xgimi.bugreportsender
+com.google.android.feedback
+com.mstar.android.tv.disclaimercustomization
+com.google.android.partnersetup
+android.autoinstalls.config.google.gtvpai
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.marvin.talkback
+com.android.printspooler

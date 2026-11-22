@@ -1,0 +1,11 @@
+# onn 4K Streaming Box (2023, Walmart; YOC, Amlogic), US
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.play.games
+com.google.android.videos
+com.android.printspooler
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith

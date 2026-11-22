@@ -1,0 +1,20 @@
+# TCL 65C725 (Smart TV Pro, BeyondTV4)
+com.tcl.bi
+com.tcl.dashboard
+com.tcl.esticker
+com.tcl.partnercustomizer
+com.tcl.useragreement
+com.tcl.messagebox
+com.tcl.overseasappshow
+com.tcl.android.webview
+android.autoinstalls.config.tcl.device
+com.google.android.tvrecommendations
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.onetimeinitializer
+com.tcl.guard
+com.tcl.keyhelp
+com.tcl.tv.tclhome_passive
+com.google.android.syncadapters.calendar
+com.google.android.tungsten.setupwraith
+com.tcl.assistant

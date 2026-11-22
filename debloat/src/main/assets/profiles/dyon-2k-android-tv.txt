@@ -1,0 +1,17 @@
+# DYON 2K Android TV (MTC, komagome, MediaTek m5621), Germany
+tv.anoki.acr.controller
+android.autoinstalls.config.JVC
+com.google.android.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.android.printspooler
+com.cltv.fast
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.play.games
+com.mobisystems.fileman
+com.zdf.android.mediathek
+de.rtli.tvnow
+com.google.android.katniss
+com.google.android.tv.remote.service
+com.google.android.backdrop

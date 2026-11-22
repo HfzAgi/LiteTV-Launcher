@@ -1,0 +1,6 @@
+# SHARP 85HP5465E (Sharp Google TV, maniatika, MediaTek MT9676), EU
+tv.anoki.acr.anokiacroptin
+com.mediatek.tv.launcher.partner
+com.mediatek.tv.retaildemo
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

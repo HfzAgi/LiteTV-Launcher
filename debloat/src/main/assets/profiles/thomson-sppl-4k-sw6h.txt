@@ -1,0 +1,25 @@
+# Thomson SPPL 4K Google TV (Skyworth SW6H, MediaTek, same board as `skyworth-sw-22sa/`), India, ~1.9 GB
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.smartdevice.aftersale
+com.smartdevice.dailymanage
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+android.autoinstalls.config.google.gtvpai
+com.smartdevice.epopplayer
+fusion.android.tv.demo
+com.coocaa.demonow.lightining
+com.Smartdevice.emanual
+com.mstar.android.tv.disclaimercustomization
+com.smartdevice.myapp
+com.smartdevice.setupwraith
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.google.android.play.games
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith

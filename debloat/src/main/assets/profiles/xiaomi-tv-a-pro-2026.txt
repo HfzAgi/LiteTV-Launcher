@@ -1,0 +1,20 @@
+# Xiaomi TV A Pro 55"/75" 2026 (MiTV-MZTU0, river, MediaTek)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas.y24
+com.google.android.feedback
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.oemtab
+com.xm.webcontent
+android.autoinstalls.config.google.gtvpai
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.updateservice
+com.mitv.upgrader
+com.mediatek.tv.systemupdater
+com.google.android.tungsten.setupwraith
+com.google.android.play.games
+com.xiaomi.mimusic2
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic

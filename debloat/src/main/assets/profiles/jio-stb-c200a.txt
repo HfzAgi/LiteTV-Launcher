@@ -1,0 +1,15 @@
+# Jio STB C200A (Jio, 4KOTTSTB, MSTB, Amlogic)
+com.jio.stbadservice
+com.jio.systemstats
+com.rjil.podlogservice
+com.jio.adc.aka
+com.jio.adc.embedded
+com.jio.bioscopecontentservice
+com.jio.smartmemorymanager
+com.jio.appoptimizer
+com.jio.backgroundscheduler
+com.jio.stb.remotediagnose
+com.jiostb.inactivitytimer
+com.jio.store
+com.aksys.jiogamepad
+com.jio.screensaver

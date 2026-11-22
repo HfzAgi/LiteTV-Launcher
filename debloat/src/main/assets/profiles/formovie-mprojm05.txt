@@ -1,0 +1,21 @@
+# Formovie / Fengmi projector MiProjM05 (eva, Amlogic)
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+android.autoinstalls.config.xiaomi
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.leanbacklauncher.recommendations
+com.google.android.tvrecommendations
+com.google.android.backdrop
+cn.formovie.fengos.usermanual
+com.espn.score_center
+com.cbsnews.ott
+com.ted.android.tv
+com.nousguide.android.rbtv
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.videos
+com.android.camera2
+com.android.printspooler
+com.fengmi.testsuite
+com.google.android.tvlauncher

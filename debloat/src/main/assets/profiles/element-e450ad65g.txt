@@ -1,0 +1,19 @@
+# Element E450AD65G (65" 4K Google TV, kaitak, MTC/MediaTek), US
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.android.tv.feedbackconsent
+com.google.android.feedback
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.partnersetup
+com.mtc.emanual
+com.mtc.emanual.overlay.ok
+com.google.android.katniss
+com.google.android.tv.assistant
+com.google.android.apps.mediashell
+com.mediatek.androidbox
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

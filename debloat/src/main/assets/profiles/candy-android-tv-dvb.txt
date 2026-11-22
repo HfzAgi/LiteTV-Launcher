@@ -1,0 +1,17 @@
+# CANDY Android TV DVB (Haier, MediaTek m7332)
+tv.anoki.acr.anokiacroptin
+fusion.android.tv.demo
+android.autoinstalls.config.haier.hanyang
+com.cvte.haier.tv.appmanager
+com.haier.apps
+com.haier.apps.evoSmart
+ru.haier.evo
+com.haierubic.usmartdevice
+com.haier.tvhousekeeper
+com.mcontent
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.play.games
+com.tcl.browser

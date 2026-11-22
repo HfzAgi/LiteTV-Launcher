@@ -1,0 +1,18 @@
+# Philips Smart 4K TV (Skyworth, eleonas, MediaTek), India
+com.smartdevice.recommendation
+com.smartdevice.aftersale
+com.smartdevice.recordactivation
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.smartdevice.leanbacklauncher.customizer
+com.Smartdevice.emanual
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.apps.mediashell
+com.mediatek.dialservice
+com.smartdevice.dtv.icast
+com.google.android.katniss
+com.android.hotwordenrollment.okgoogle
+com.android.hotwordenrollment.xgoogle
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

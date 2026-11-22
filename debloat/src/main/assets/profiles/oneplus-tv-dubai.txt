@@ -1,0 +1,15 @@
+# OnePlus TV (D00, Dubai)
+com.google.android.feedback
+com.heytap.tv.remotediagnosing
+com.heytap.olink
+oneplus.smarthome
+com.heytap.tv.assistant.oneplus
+com.heytap.tv.btspeaker
+com.heytap.tv.filebrowser
+com.oneplus.tv.launcher
+com.tcl.browser
+com.jio.web.androidtv
+com.oneplus.tv.userguide
+com.google.android.play.games
+com.google.android.tvlauncher
+com.google.android.tvrecommendations

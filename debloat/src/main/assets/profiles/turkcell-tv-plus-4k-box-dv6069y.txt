@@ -1,0 +1,18 @@
+# Turkcell TV+ 4K Box (SDMC DV6069Y, Amlogic), Turkey, operator streaming box
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.droidlogic.readlog
+com.sdmc.facTest
+com.google.android.tvrecommendations
+com.sdmc.leakbackcustomer
+android.autoinstalls.config.sdmc
+com.sdmc.autorunapp
+com.google.android.katniss
+com.google.android.apps.mediashell
+com.google.android.youtube.tv
+com.google.android.videos
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.android.printspooler
+com.android.camera2
+com.android.gallery3d

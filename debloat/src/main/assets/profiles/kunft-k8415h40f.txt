@@ -1,0 +1,16 @@
+# KUNFT K8415H40F (Changhong AI PONT, redwood, DVB92KT)
+com.homwee.aipont
+com.homwee.store
+android.autoinstalls.config.homwee
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.google.android.partnersetup
+com.homwee.chinstallapk
+com.homwee.chtvmanager
+com.homwee.help
+com.google.android.backdrop
+com.google.android.katniss
+com.homwee.mmp.fileexplorer
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.play.games

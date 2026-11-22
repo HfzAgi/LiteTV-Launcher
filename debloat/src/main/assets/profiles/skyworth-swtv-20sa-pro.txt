@@ -1,0 +1,13 @@
+# Skyworth SWTV-20SA-PRO (SW4H_FF, MediaTek m7332)
+com.smartdevice.leanbacklauncher.customizer
+com.smartdevice.acr.recommendation
+com.smartdevice.recommendation
+com.smartdevice.epopplayer
+com.Smartdevice.emanual
+com.mstar.android.tv.disclaimercustomization
+com.google.android.leanbacklauncher.partnercustomizer
+android.autoinstalls.config.SW
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.backdrop
+com.google.android.tvrecommendations

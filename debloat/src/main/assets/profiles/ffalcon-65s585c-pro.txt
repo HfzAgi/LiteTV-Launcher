@@ -1,0 +1,25 @@
+# FFalcon (雷鸟) 鹤6 PRO 65S585C Pro (China, tcl_mt5879_cn, MediaTek MT9653)
+com.tcl.bootadservice
+com.tcl.profilemanager
+com.tcl.xian.StartandroidService
+com.tcl.logkit
+com.tcl.recognize.service
+com.tcl.appreciate.art
+com.tcl.atomic.servicecenter
+com.tcl.c2dm.client
+com.tcl.wholenetsearch
+com.tcl.playskill
+com.tcl.repairguide
+com.tcl.useragreement
+android.autoinstalls.config.tcl.device
+com.tcl.ffeducation
+com.tcl.ffkaraoke
+com.tcl.versionUpdateApp
+com.tcl.UpdatePeripheral
+com.snm.upgrade
+com.tcl.usercenter
+com.tcl.walleve
+com.tcl.common.weather
+com.tcl.tvsmartalbum
+com.tcl.weixin
+com.tcl.videocall

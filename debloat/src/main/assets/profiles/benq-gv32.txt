@@ -1,0 +1,9 @@
+# BenQ GV32 portable projector (SDMC, BenQ_GV01, himalaya, MediaTek m7332)
+com.android.adservices.api
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mstar.android.tv.disclaimercustomization
+com.google.android.play.games
+com.instagram.airwave
+com.google.android.tungsten.setupwraith

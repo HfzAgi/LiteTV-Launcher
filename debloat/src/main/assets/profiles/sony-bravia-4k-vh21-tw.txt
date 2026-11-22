@@ -1,0 +1,26 @@
+# Sony BRAVIA 4K VH21 (XRM-65X95K, 2022, BRAVIA_VH21, MediaTek MT5895), Taiwan
+tv.samba.ssm
+tv.samba.ssm.ui
+com.sonyericsson.idd.agent
+com.sony.dtv.usercontext
+com.qterics.da.product
+com.sony.dtv.da.service
+com.google.android.feedback
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.sony.dtv.sonytab
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.amazon.amazonvideo.livingroom
+com.google.android.apps.mediashell
+com.google.android.play.games
+com.vewd.core.integration.dia
+com.vewd.core.service
+com.google.android.tts
+com.sony.dtv.gestureapp
+com.google.android.youtube.tvmusic
+com.taiwanmobile.myVideotv
+com.sonypicturescore
+com.google.android.videos
+com.google.android.tungsten.setupwraith

@@ -1,0 +1,21 @@
+# TCL 55Q10G Pro (China, tcl_mt5879_cn, MediaTek MT9952)
+com.tcl.bootadservice
+com.tcl.profilemanager
+com.tcl.bi
+com.tcl.xian.StartandroidService
+com.tcl.logkit
+com.tcl.recognize.service
+com.tcl.appreciate.art
+com.tcl.atomic.servicecenter
+com.tcl.c2dm.client
+com.tcl.wholenetsearch
+com.tcl.playskill
+com.tcl.repairguide
+com.tcl.useragreement
+android.autoinstalls.config.tcl.device
+com.tcl.ffeducation
+com.tcl.ffkaraoke
+com.tcl.versionUpdateApp
+com.tcl.UpdatePeripheral
+com.tcl.usercenter
+com.tcl.walleve

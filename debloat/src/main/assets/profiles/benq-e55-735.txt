@@ -1,0 +1,12 @@
+# BenQ E55-735 (Changhong AI PONT, DVB96BQ)
+com.homwee.store
+com.homwee.help
+tv.anoki.acr.anokiacroptin
+com.google.android.videos
+com.google.android.apps.tv.dreamx
+com.google.android.play.games
+com.amazon.amazonvideo.livingroom
+com.taiwanmobile.myVideotv
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

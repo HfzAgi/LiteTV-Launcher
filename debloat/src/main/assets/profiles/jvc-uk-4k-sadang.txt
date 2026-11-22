@@ -1,0 +1,14 @@
+# JVC LT-58CA810 (UK 4K Android TV, MTC, MTCMSD6886UK, sadang, MediaTek m7322), UK
+com.google.android.feedback
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.apps.mediashell
+com.mediatek.tv.freeviewplay
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
+android.autoinstalls.config.JVC
+com.google.android.partnersetup

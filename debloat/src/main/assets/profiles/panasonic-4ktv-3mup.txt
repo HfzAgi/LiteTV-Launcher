@@ -1,0 +1,21 @@
+# Panasonic 4KTV-3MUP / TH-65MX660DX (MOKA R4_GTV, Realtek rtd2851m), Taiwan and India
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.apps.mk.wd
+android.autoinstalls.config.scbc.device
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.apps.wifihotspot
+com.android.dreams.basic
+com.android.htmlviewer
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.android.providers.calendar
+com.disney.disneyplus
+com.chocolabs.app.chocotv.tv
+tv.twitch.android.app
+jp.or.nhk.nhkworld.tv
+com.apps.usbmediaplayer

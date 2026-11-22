@@ -1,0 +1,26 @@
+# Philips 65OLED706/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), France; 55OLED706/12, Poland and Germany
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.usagelogger
+com.google.android.feedback
+com.google.android.partnersetup
+org.droidtv.nettvrecommender
+org.droidtv.recommendation
+org.droidtv.nettv.market
+org.droidtv.nettvapps
+android.autoinstalls.config.tpv.device
+org.droidtv.astrahdplus
+org.droidtv.m7opapp
+org.droidtv.demome
+org.droidtv.amazonalexa
+io.mimi.tvapp
+io.mimi.sdk.service
+org.droidtv.dropboxprovider
+com.google.android.marvin.talkback
+com.google.android.onetimeinitializer
+com.google.android.sss.authbridge
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.google.android.videos
+com.netflix.ninja
+com.google.android.tvrecommendations

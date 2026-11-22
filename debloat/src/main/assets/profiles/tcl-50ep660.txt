@@ -1,0 +1,23 @@
+# TCL 50EP660 (France, BeyondTV, Realtek RTD2851, AP06)
+com.tcl.bi
+com.tcl.appstatecontroller
+com.tcl.usercenter
+com.google.android.tv.bugreportsender
+com.tcl.cyberui
+com.tcl.messagebox
+com.tcl.esticker
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.tcl.tvweishi
+com.tcl.copydatatotv
+com.android.printspooler
+com.tcl.imageplayer
+com.tcl.audioplayer
+com.tcl.videoplayer
+com.tcl.ui_mediaCenter
+com.tcl.appmarket2
+com.google.android.play.games
+com.google.android.videos
+com.google.android.music
+com.tcl.partnercustomizer
+com.google.android.tvlauncher

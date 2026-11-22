@@ -1,15 +1,15 @@
 #!/bin/sh
 # Dijalankan di emulator: pasang APK, buka, pastikan tidak crash.
-# Pemakaian: ci-test.sh <apk> <package> <home|launcher> [screenshot.png]
+# Pemakaian: ci-test.sh <apk> <package> <home|launcher> [screenshot.png] [activity]
 set -e
-APK="$1"; PKG="$2"; MODE="$3"; SHOT="${4:-screen.png}"
+APK="$1"; PKG="$2"; MODE="$3"; SHOT="${4:-screen.png}"; ACT="${5:-.MainActivity}"
 adb install -r "$APK"
 adb shell pm list packages | grep -q "$PKG"
 adb logcat -c
 if [ "$MODE" = "home" ]; then
-  adb shell am start -W -a android.intent.action.MAIN -c android.intent.category.HOME -n "$PKG/.MainActivity"
+  adb shell am start -W -a android.intent.action.MAIN -c android.intent.category.HOME -n "$PKG/$ACT"
 else
-  adb shell am start -W -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n "$PKG/.MainActivity"
+  adb shell am start -W -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n "$PKG/$ACT"
 fi
 sleep 8
 if adb logcat -d | grep -q "FATAL EXCEPTION"; then

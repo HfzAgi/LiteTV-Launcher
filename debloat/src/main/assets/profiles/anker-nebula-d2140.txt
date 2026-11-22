@@ -1,0 +1,17 @@
+# Anker Nebula Cosmos projector D2140 (D2140-Cosmos, SDMC/Amlogic, 2 GB), Vietnam
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.leanbacklauncher.recommendations
+android.autoinstalls.config.sdmc
+com.google.android.partnersetup
+com.google.android.play.games
+com.tcl.browser
+com.zhixin.atvchannel
+com.google.android.backdrop
+com.google.android.marvin.talkback
+com.google.android.tts
+com.google.android.syncadapters.calendar
+com.google.android.syncadapters.contacts
+com.oceanwing.m1testsample
+com.google.android.tvlauncher
+com.google.android.tvrecommendations

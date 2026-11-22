@@ -47,7 +47,8 @@ public class MainActivity extends Activity {
     private static final int F_ALL = 1;
     private static final int F_DISABLED = 2;
     private static final int F_PROTECTED = 3;
-    private static final String[] FILTER_NAMES = {"Disarankan", "Semua", "Nonaktif", "Dilindungi"};
+    private static final int F_PROFILE = 4;
+    private static final String[] FILTER_NAMES = {"Disarankan", "Semua", "Nonaktif", "Dilindungi", "Profil"};
 
     private final Handler ui = new Handler(Looper.getMainLooper());
     private final List<AppItem> all = new ArrayList<AppItem>();
@@ -58,7 +59,10 @@ public class MainActivity extends Activity {
 
     private TextView status;
     private TextView runBtn;
-    private final TextView[] filterBtns = new TextView[4];
+    private final TextView[] filterBtns = new TextView[5];
+    private final Set<String> profilePkgs = new HashSet<String>();
+    private String profileId;
+    private String profileName = "";
     private AppAdapter adapter;
 
     private int dp(int v) {
@@ -129,7 +133,7 @@ public class MainActivity extends Activity {
 
         LinearLayout filters = new LinearLayout(this);
         filters.setOrientation(LinearLayout.HORIZONTAL);
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < FILTER_NAMES.length; i++) {
             final int idx = i;
             filterBtns[i] = makeButton(FILTER_NAMES[i], new Runnable() {
                 @Override
@@ -144,6 +148,12 @@ public class MainActivity extends Activity {
         LinearLayout actions = new LinearLayout(this);
         actions.setOrientation(LinearLayout.HORIZONTAL);
         actions.setPadding(0, dp(8), 0, 0);
+        actions.addView(makeButton("Pilih profil", new Runnable() {
+            @Override
+            public void run() {
+                chooseProfile();
+            }
+        }), gap());
         actions.addView(makeButton("Pilih semua", new Runnable() {
             @Override
             public void run() {
@@ -194,6 +204,7 @@ public class MainActivity extends Activity {
                 ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f));
 
         setContentView(rootView);
+        initProfile();
         refreshChrome();
 
         new Thread(new Runnable() {
@@ -210,6 +221,49 @@ public class MainActivity extends Activity {
             }
         }, "root-check").start();
         scan();
+    }
+
+    // ---------- Profil ----------
+
+    private void initProfile() {
+        String saved = getSharedPreferences("bersih", MODE_PRIVATE).getString("profile", null);
+        List<Profiles.Info> ranked = Profiles.ranked(this);
+        Profiles.Info pick = null;
+        if (saved != null) {
+            for (Profiles.Info i : ranked) if (i.id.equals(saved)) pick = i;
+        }
+        if (pick == null && !ranked.isEmpty()) pick = ranked.get(0).score > 0 ? ranked.get(0) : null;
+        if (pick == null) {
+            for (Profiles.Info i : ranked) if (i.id.equals("zte-b866f")) pick = i;
+        }
+        if (pick != null) applyProfile(pick);
+    }
+
+    private void applyProfile(Profiles.Info info) {
+        profileId = info.id;
+        profileName = info.name;
+        profilePkgs.clear();
+        profilePkgs.addAll(Profiles.packages(this, info.id));
+        getSharedPreferences("bersih", MODE_PRIVATE).edit().putString("profile", info.id).apply();
+    }
+
+    private void chooseProfile() {
+        if (busy) return;
+        final List<Profiles.Info> ranked = Profiles.ranked(this);
+        int n = Math.min(ranked.size(), 15);
+        String[] names = new String[n];
+        for (int i = 0; i < n; i++) {
+            Profiles.Info p = ranked.get(i);
+            names[i] = (p.score > 0 ? "★ " : "") + p.name;
+        }
+        new AlertDialog.Builder(this).setTitle("Pilih profil (paling cocok di atas)")
+                .setItems(names, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface d, int which) {
+                        applyProfile(ranked.get(which));
+                        setFilter(F_PROFILE);
+                    }
+                }).setNegativeButton("Batal", null).show();
     }
 
     // ---------- Data ----------
@@ -309,6 +363,9 @@ public class MainActivity extends Activity {
                 case F_DISABLED:
                     keep = !a.enabled;
                     break;
+                case F_PROFILE:
+                    keep = a.enabled && a.tier != AppItem.TIER_PROTECTED && profilePkgs.contains(a.pkg);
+                    break;
                 default:
                     keep = a.enabled && a.tier == AppItem.TIER_PROTECTED;
                     break;
@@ -328,9 +385,10 @@ public class MainActivity extends Activity {
     private void refreshChrome() {
         String rootText = root == null ? "memeriksa root…" : (root ? "root aktif" : "root TIDAK ditemukan");
         int selected = selectedItems().size();
-        status.setText("Status: " + rootText + "   •   " + shown.size() + " aplikasi   •   " + selected + " dipilih");
+        status.setText("Status: " + rootText + "   •   " + shown.size() + " aplikasi   •   " + selected + " dipilih"
+                + (filter == F_PROFILE ? "\nProfil: " + profileName : ""));
         status.setTextColor(root != null && !root ? Color.parseColor("#FBBF24") : Color.parseColor("#94A3B8"));
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < FILTER_NAMES.length; i++) {
             filterBtns[i].setTextColor(i == filter ? Color.parseColor("#38BDF8") : Color.WHITE);
         }
         runBtn.setText((filter == F_DISABLED ? "Aktifkan" : "Nonaktifkan") + " (" + selected + ")");

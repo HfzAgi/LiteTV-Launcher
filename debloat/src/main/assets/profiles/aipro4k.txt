@@ -1,0 +1,20 @@
+# AiPro4K (Expressluck, sepolia; Changhong AI PONT family)
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mediatek.tv.launcher.partner
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.mediatek.tv.retaildemo
+com.google.android.apps.tv.dreamx
+com.internet.tvbrowser
+com.tcl.browser
+de.stefanpledl.localcast
+com.instantbits.cast.receiver
+com.alphainventor.filemanager
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

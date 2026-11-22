@@ -1,0 +1,20 @@
+# Motorola SWTV-24AE-4K (Skyworth OEM, eleonas, MediaTek), India
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.Smartdevice.emanual
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.google.android.play.games
+tv.mopa.ginga
+org.obs.mhegservice
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

@@ -1,0 +1,4 @@
+# BTV B13 (ohm, Amlogic/Droidlogic), streaming box
+com.google.android.partnersetup
+com.google.android.feedback
+com.live.evo

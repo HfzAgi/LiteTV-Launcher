@@ -1,0 +1,9 @@
+# KTC 4K Smart TV (device hongkong, MediaTek), Taiwan
+tv.anoki.acr.anokiacroptin
+com.google.android.feedback
+com.ktc.serialport
+com.ktc.tv.factory
+ktc.factorymenu.ui
+mediatek.factorymenu.ui
+com.electronic.manual
+fusion.android.tv.demo

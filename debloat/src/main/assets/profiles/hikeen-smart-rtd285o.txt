@@ -1,0 +1,13 @@
+# Hikeen smart TV ("Smart"/SmartTV, Realtek RTD285O, Zeasn)
+com.zeasn.services.general
+com.zeasn.deviceportal.asdprovider.hikeen
+cn.zeasn.overseas.tv.hikeen.orion
+com.hikeen.cleanmaster
+com.hikeen.hotelmenu
+com.hikeen.setupwizard
+com.google.android.tungsten.setupwraith
+com.google.android.leanbacklauncher.recommendations
+com.android.printspooler
+com.android.wallpaper.livepicker
+com.android.dreams.basic
+com.android.dreams.phototable

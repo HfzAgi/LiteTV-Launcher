@@ -1,0 +1,14 @@
+# LYNCAST X3AQ (H726 Focus)
+com.android.ytb
+com.android.nfx
+com.android.music
+com.softwinner.TvdVideo
+com.softwinner.awlogsettings
+com.htc.hyk_test
+com.htc.screensaver
+com.hotack.screensaversdk
+com.android.bips
+com.android.companiondevicemanager
+com.android.dreams.basic
+com.android.traceur
+com.android.htmlviewer

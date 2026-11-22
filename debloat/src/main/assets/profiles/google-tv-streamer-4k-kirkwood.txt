@@ -1,0 +1,12 @@
+# Google TV Streamer 4K (kirkwood, GZRNL)
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.tv.remotecontrol.logging
+com.google.android.federatedcompute
+com.google.android.ondevicepersonalization.services
+com.google.android.adservices.api
+com.google.android.ext.adservices.api
+com.google.android.play.games
+com.google.android.videos
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith

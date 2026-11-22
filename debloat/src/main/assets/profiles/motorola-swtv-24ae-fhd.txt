@@ -1,0 +1,19 @@
+# Motorola / Coocaa / Telefunken SWTV-24AE-FHD (24LP6000G, Skyworth OEM, beomil), India/SEA/Tunisia
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.Smartdevice.emanual
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.google.android.play.games
+fusion.android.tv.demo
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

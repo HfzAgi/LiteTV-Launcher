@@ -1,0 +1,15 @@
+# Haier MatrixTV DE (HR9676EUF, omonia, MediaTek)
+it.hon.service
+com.haier.apps
+com.haier.tvhousekeeper
+com.haier.emanual9603
+com.haier.oemtabprovider
+com.haier.launcher.haiermatrix
+com.google.android.feedback
+tv.anoki.acr.controller
+com.mediatek.tv.launcher.partner
+com.mediatek.tv.retaildemo
+com.google.android.play.games
+com.haier.overseastv.bluetoothspeaker
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith

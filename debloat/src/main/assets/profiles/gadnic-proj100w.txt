@@ -1,0 +1,21 @@
+# Gadnic PROJ100W projector (built-in Google TV stick: SkyworthDigital YYT, Amlogic HP46B), Argentina
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.oemservice
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.oem.qa
+com.sdt.producttest
+com.android.printspooler
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.android.cameraextensions
+com.android.dynsystem
+com.android.hotspot2.osulogin
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.google.android.katniss
+com.google.android.marvin.talkback
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith

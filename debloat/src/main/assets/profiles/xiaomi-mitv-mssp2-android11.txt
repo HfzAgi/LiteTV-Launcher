@@ -1,0 +1,22 @@
+# Xiaomi MiTV-MSSP2 (volver, MediaTek), Android 11 firmware RTT2.211214.001.933, low-RAM
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.google.android.partnersetup
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.xm.webcontent
+android.autoinstalls.config.xiaomi.amelie
+com.google.android.tvrecommendations
+com.xiaomi.floatingframe
+fusion.android.tv.demo
+com.xiaomo.tv.milegal
+com.xiaomi.mitv.tvmanager
+com.android.printspooler
+com.google.android.play.games
+com.google.android.videos
+com.xiaomi.mimusic2
+com.mitv.gallery
+com.mitv.videoplayer
+com.epic.docubay

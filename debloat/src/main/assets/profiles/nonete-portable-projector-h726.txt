@@ -1,0 +1,10 @@
+# Nonete portable projector (Allwinner H726, h726_p2, reports ADT-3), 1 GB, 720p
+com.htc.hyk_test
+com.mobisystems.office
+com.htc.storeos
+com.htc.screensaver
+com.google.android.backdrop
+com.mphotool.dlna
+com.mphotool.airplay
+com.softwinner.miracastReceiver
+com.htc.samescreen

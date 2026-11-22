@@ -1,0 +1,20 @@
+# Philips 65OLED907/12 and 55OLED907/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), UK and France
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.usagelogger
+com.google.android.feedback
+com.google.android.partnersetup
+org.droidtv.nettvrecommender
+org.droidtv.recommendation
+org.droidtv.nettv.market
+org.droidtv.nettvapps
+org.droidtv.demome
+org.droidtv.astrahdplus
+android.autoinstalls.config.tpv.device
+com.google.android.tvrecommendations
+com.google.android.onetimeinitializer
+com.google.android.sss.authbridge
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+com.google.android.katniss
+org.droidtv.ipcontrol

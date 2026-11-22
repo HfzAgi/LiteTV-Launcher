@@ -1,0 +1,27 @@
+# Xiaomi Redmi Smart TV A Pro 55"/50" 2025 Energy-saving (MiTV-ASTR0, blueplanet, Amlogic), China firmware OS3.0.106.0 / OS3.0.119.0.USTAATV, 3 GB RAM
+com.miui.tv.analytics
+com.xiaomi.tvqs
+com.xiaomi.mitv.tvpush.tvpushservice
+com.mitv.overseaservice
+com.miui.hybrid.tv
+com.xm.webcontent
+com.mitv.shoplugin
+com.xiaomi.mitv.shop
+com.duokan.videodaily
+com.xiaomi.gamecenter.sdk.service.mibox
+com.android.adservices.api
+com.android.ext.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.xiaomi.mitv.calendar
+com.xiaomi.mitv.health
+com.xiaomi.mitv.healthdiagnosis
+com.xiaomi.mitv.karaoke.service
+com.xiaomi.screenrecorder
+com.xiaomi.tweather
+com.mitv.gallery
+com.xiaomi.tv.gallery
+com.xiaomi.smarthome.tv
+com.xiaomi.mitv.tvmanager
+com.mitv.toolhouse
+com.xiaomi.mitv.hyper.screensaver

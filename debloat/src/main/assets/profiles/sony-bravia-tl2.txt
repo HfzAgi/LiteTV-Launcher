@@ -1,0 +1,11 @@
+# Sony BRAVIA TL2 (OD0M_EA_T32, TPV-built, MediaTek), Europe
+com.amazon.amazonvideo.livingroom
+com.disney.disneyplus
+com.nousguide.android.rbtv
+com.cg.football
+com.goodtoolapps.zeus
+fusion.android.tv.demo
+android.autoinstalls.config.tpv.device
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.tvlauncher

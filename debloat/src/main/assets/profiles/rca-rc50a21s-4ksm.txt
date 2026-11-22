@@ -1,0 +1,7 @@
+# RCA RC50A21S-4KSM, Zeasn home (Toptech firmware RTK2851P, Realtek RTD2851P, board mac6p)
+com.zeasn.deviceportal.asdprovider.toptech
+com.zeasn.services.general
+cn.zeasn.toptech2851.rca.vstoresubclient
+android.autoinstalls.config.realtek.device
+com.android.printspooler
+com.zeasn.rca.toptech

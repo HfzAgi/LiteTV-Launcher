@@ -1,0 +1,6 @@
+# Vu Premium FHD 43-inch (Smart 2K ATV4, hamamatsucho), India
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.cvte.startpartnertv
+com.cvte.startpartnertvvod
+fusion.android.tv.demo

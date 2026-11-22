@@ -1,0 +1,15 @@
+# Noblex DB58X7550 (Changhong AI PONT, ISDB93CH, sindorim, MediaTek m7322), Argentina
+com.homwee.aipont
+com.google.android.tvrecommendations
+android.autoinstalls.config.homwee
+com.google.android.feedback
+com.homwee.store
+com.homwee.help
+com.homwee.upgrade
+com.homwee.chtvmanager
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.backdrop
+com.google.android.syncadapters.calendar
+com.google.android.katniss

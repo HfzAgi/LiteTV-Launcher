@@ -1,0 +1,15 @@
+# Magcubic HY300 Pro projector (rk3566_rgo, device adt3, Askey)
+com.android.calculator2
+com.android.music
+com.mobisystems.office
+com.softwinner.TvdFileManager
+com.softwinner.TvdVideo
+com.softwinner.miracastReceiver
+com.htc.storeos
+com.android.egg
+com.android.htmlviewer
+com.android.printspooler
+com.android.bips
+com.android.printservice.recommendation
+com.android.dreams.web
+com.android.wallpaperbackup

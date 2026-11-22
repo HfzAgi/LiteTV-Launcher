@@ -1,0 +1,22 @@
+# SHARP AQUOS 4T-C43DL1 (AQUOS-TVJ21-2, tcve2uj, MediaTek), Japan
+jp.co.sharp.av.android.analyticsservice
+jp.co.sharp.av.android.storedemoapplication
+android.autoinstalls.config.sharp.av
+com.google.android.feedback
+com.google.android.partnersetup
+jp.co.sharp.av.android.cocorovision
+jp.co.sharp.av.android.chranking
+jp.co.sharp.av.android.aquoscity
+jp.co.sharp.av.android.living_camera_app
+com.google.android.play.games
+com.google.android.backdrop
+com.google.android.katniss
+com.google.android.apps.mediashell
+jp.co.sharp.av.android.tvremote
+com.google.android.tv.remote.service
+jp.co.sharp.av.android.cocoroguide
+jp.co.sharp.av.android.dlna.homenetwork
+com.google.android.tvrecommendations
+jp.paravi.androidtv
+jp.unext.cocorovideo
+com.google.android.videos

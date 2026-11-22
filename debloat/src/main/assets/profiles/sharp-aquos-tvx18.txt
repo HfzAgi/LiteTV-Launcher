@@ -1,0 +1,13 @@
+# SHARP AQUOS-TVX18 (AQUOS-TVX18, tcth2ux, MediaTek MT5891), Asia
+com.sharplabs.dmt.aas.analyticsservice
+jp.co.sharp.av.android.storedemoapplication
+jp.co.sharp.av.android.emanual
+jp.co.sharp.av.android.emanual_a
+jp.co.sharp.av.android.emanual_b
+jp.co.sharp.av.android.shlegal
+jp.co.sharp.av.android.softwarecopyright
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.videos
+com.google.android.music
+com.google.android.tvlauncher

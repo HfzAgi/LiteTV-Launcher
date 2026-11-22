@@ -1,0 +1,25 @@
+# Next Start Pro 4K TV Box (SDT HPR314-Next, Realtek RTD1325), Turkey, streaming box
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.dreamx
+com.android.printspooler
+com.android.cameraextensions
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.android.dreams.basic
+com.android.dynsystem
+com.android.hotspot2.osulogin
+com.android.nearby.halfsheet
+com.oem.qa
+com.sdt.producttest
+com.next.iptv
+com.next.roket
+com.jettv.player
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.google.android.tts

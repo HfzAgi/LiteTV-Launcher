@@ -1,0 +1,15 @@
+# Formovie XMing Page One projector (XMM2101, tianshan, MediaTek MT9630)
+com.google.android.feedback
+com.google.android.partnersetup
+android.autoinstalls.config.fomovie
+com.google.android.apps.nbu.smartconnect.tv
+com.android.printspooler
+com.android.htmlviewer
+com.android.wallpaperbackup
+com.android.sharedstoragebackup
+com.android.backupconfirm
+com.android.hotspot2.osulogin
+com.google.android.syncadapters.calendar
+com.google.android.apps.tv.dreamx
+com.google.android.play.games
+com.google.android.youtube.tvmusic

@@ -1,0 +1,23 @@
+# FFalcon (雷鸟) r34a0, China (V8-A920T01-LF1V147, Amlogic T920), 1 GB
+com.tcl.bootadservice
+com.tcl.c2dm.client
+com.android.tcl.messagebox
+com.tcl.bi
+com.tcl.usagestats
+com.tcl.tvhealthcheck
+com.tcl.xian.StartandroidService
+com.tcl.vod
+com.tcl.waterfall.resource
+com.tcl.tshop
+com.tcl.gamecenter
+com.tcl.ffeducation
+com.pptv.tvsports.preinstall
+com.tencent.qqmusictv
+com.tcl.weixin
+com.tcl.browser
+com.iflytek.xiri
+com.iflytek.xiri.recorder.svc
+com.iflytek.xiri2.hal
+com.iflytek.xiri2.system
+com.tcl.walleve
+com.tcl.versionUpdateApp

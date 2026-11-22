@@ -1,0 +1,12 @@
+# BenQ E55-760 (Changhong AI PONT, GTVU64BQ, board alimos)
+com.homwee.store
+com.homwee.help
+tv.anoki.acr.anokiacroptin
+tv.mopa.ginga
+org.obs.mhegservice
+com.google.android.videos
+com.google.android.apps.tv.dreamx
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.gdch.wwtv.mediaplayer
+com.google.android.tungsten.setupwraith

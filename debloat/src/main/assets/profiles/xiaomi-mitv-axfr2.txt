@@ -1,0 +1,19 @@
+# Xiaomi MiTV-AXFR2 (watchmen, MediaTek, 1 GB), India
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.mitv.tvhome.michannel
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.mitvplus
+android.autoinstalls.config.xioami.dangal
+com.xiaomi.mitv.tvmanager
+com.xiaomo.tv.milegal
+com.mitv.toolhouse
+com.mitv.overseaservice
+com.xiaomi.mimusic2
+com.google.android.videos
+com.google.android.youtube.tvkids
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

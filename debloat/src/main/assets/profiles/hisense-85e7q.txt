@@ -1,0 +1,20 @@
+# Hisense 85E7Q (VIDAA_TV, MediaTek MT9655), China
+com.hisense.business.ad
+com.hisense.service.ad
+com.hisense.platformreport
+com.hisense.logupload
+com.hisense.hitv.das
+com.hisense.service.message
+com.hisense.demonstrate
+com.hisense.hotelmenu
+com.meetingroom
+com.jamdeo.tv.fte
+com.hisense.electronictutorial
+com.vision.aibook
+com.hisense.tv.fitmirror
+com.hisense.tv.videochat.social
+com.hisense.tv.videoconference
+com.hisense.tv.weather
+com.jamdeo.calendar
+com.ju.miguvideoTV.cmcc
+com.jamdeo.tv.vod

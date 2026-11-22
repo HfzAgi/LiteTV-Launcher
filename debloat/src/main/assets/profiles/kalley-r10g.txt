@@ -1,0 +1,23 @@
+# Kalley R10G (device R10G, product ACER_FFM, MOKA, Realtek RTD2875P), Latin America
+com.google.android.partnersetup
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.seraphic.media.tv.interactive.app
+com.amazon.amazonvideo.livingroom
+com.realtek.leanbacklauncher.partnercustomizer
+com.apps.wifihotspot
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.federatedcompute.services
+com.android.ondevicepersonalization.services
+com.realtek.kara
+com.realtek.karaoke.userguide
+com.apple.atve.androidtv.appletv
+com.nagra.ion.claroco
+com.kick.mobile
+com.jio.web.androidtv
+com.cbs.ca
+net.froemling.bombsquad
+com.yodo1.crossyroad
+com.mercadolibre.android.mplay_tv
+com.iqiyi.i18n.tv

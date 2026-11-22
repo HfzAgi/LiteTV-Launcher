@@ -1,0 +1,13 @@
+# Kogan Google TV (Changhong CHiQ AI PONT, GTVU65KG, dangni, MediaTek mt5867), Australia
+android.autoinstalls.config.google.gtvpai
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.homwee.store
+com.homwee.help
+com.android.printspooler
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.google.android.youtube.tvmusic
+au.net.abc.iview
+com.sbs.ondemand.tv

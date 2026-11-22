@@ -1,0 +1,16 @@
+# Stellamore T950S projector (Droidlogic be30a3, Amlogic txhd2)
+zeasn.open.technical.tv.store.stellamore.tv
+com.zeasn.deviceportal.asdprovider.xym_hisi351
+com.stm
+com.stm.factorytest
+com.stellamore.tvfactory
+com.stellamore.guide
+com.android.printspooler
+com.android.musicfx
+com.android.providers.calendar
+com.android.providers.contacts
+com.google.android.syncadapters.calendar
+com.google.android.syncadapters.contacts
+com.android.wallpaperbackup
+com.android.adservices.api
+com.android.ondevicepersonalization.services

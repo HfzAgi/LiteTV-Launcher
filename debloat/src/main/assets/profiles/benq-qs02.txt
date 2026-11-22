@@ -1,0 +1,7 @@
+# BenQ QS02 Android TV stick for BenQ projectors (SDMC, YUL, Amlogic S905Y4, 2 GB)
+android.autoinstalls.config.sdmc
+com.benq.notification
+com.sdmc.leakbackcustomer
+com.android.adservices.api
+com.benq.appsmanager
+com.benq.dashboard

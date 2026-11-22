@@ -1,0 +1,13 @@
+# TCL BeyondTV (India)
+com.tcl.bi
+com.tcl.tv.tclhome_passive
+com.tcl.waterfall.overseas
+com.tcl.esticker
+com.tcl.tvweishi
+com.tcl.notereminder
+com.tcl.appmarket2
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.google.android.videos
+com.google.android.play.games
+com.google.android.youtube.tvmusic

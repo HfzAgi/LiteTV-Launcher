@@ -1,0 +1,23 @@
+# Hisense HiSmartTV A4 (xiaoyushan, MStar m7322), India
+com.hisense.app.logreport
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.google.android.leanbacklauncher
+com.hisense.storemode
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+android.autoinstalls.config.hisense.xiaoyushan
+com.seraphic.browser
+com.google.android.music
+com.google.android.videos
+com.google.android.play.games
+com.google.android.apps.nbu.smartconnect.tv
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.hisense.tv.hisremotenow
+com.jamdeo.tv.mediacenter
+com.hisense.myapplication
+com.hisense.tv.ota
+com.hisense.remoteupgrade

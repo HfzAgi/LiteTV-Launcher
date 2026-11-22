@@ -1,0 +1,16 @@
+# Anker Nebula Mars 3 Air projector D2325 (Nebula_Mars_2_V2, taihang, MediaTek m7332), Portugal
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.federatedcompute.services
+com.android.ondevicepersonalization.services
+com.google.android.partnersetup
+fusion.android.tv.demo
+com.zhixin.nebularetailmode
+com.waxrain.airplaydmr_OW
+com.spotify.music
+com.wbd.stream
+com.google.android.videos
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx
+com.mediatek.android.leanbacklauncher.partnercustomizer

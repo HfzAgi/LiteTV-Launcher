@@ -1,0 +1,11 @@
+# Durabrand DB Android TV 4K (DURAT32ISDB, dupont, m7332 Haier/CVTE)
+fusion.android.tv.demo
+com.haier.apps
+com.haier.apps.evoSmart
+com.haier.tvhousekeeper
+com.google.android.feedback
+com.google.android.videos
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.syncadapters.calendar
+com.android.printspooler

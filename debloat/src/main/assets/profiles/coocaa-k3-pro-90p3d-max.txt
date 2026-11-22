@@ -1,0 +1,24 @@
+# Skyworth Coocaa K3 Pro 90P3D Max (8R145_P3DM, Realtek RTD2885N), China market
+com.tianci.ad
+com.skyworth.aisense
+com.coocaa.sysreport
+com.tianci.push
+com.dstv.ad1
+com.coocaa.tvpi
+com.tianci.autoinstaller
+com.coocaa.sport
+com.coocaa.educate
+com.coocaa.lifeassistant
+com.coocaa.app_browser
+com.coocaa.teampresent
+com.coocaa.mitee.tv
+com.coocaa.miitee.guard
+com.tianci.family.photograph
+com.coocaa.os.thememanager
+com.coocaa.theme_package_ccos_nine
+com.coocaa.theme_package_ccos_seven
+com.coocaa.os.customerservice
+com.coocaa.messageprovider
+com.coocaa.playtvskill
+com.coocaa.guide
+com.itwgame.mota.nearme.gamecenter

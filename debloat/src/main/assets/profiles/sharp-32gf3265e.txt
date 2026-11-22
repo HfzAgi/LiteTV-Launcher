@@ -1,0 +1,16 @@
+# Sharp 32GF3265E (umeda, Skyworth board)
+com.google.android.feedback
+com.google.android.partnersetup
+com.android.settings.intelligence
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.coocaa.demonow.lightining
+fusion.android.tv.demo
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.Smartdevice.emanual
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.apps.tv.dreamx
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

@@ -1,0 +1,11 @@
+# Kogan G7 (Expressluck, cottongreen, Realtek), Australia
+com.realtek.storemode
+com.realtek.retailmode
+com.realtek.leanbacklauncher.partnercustomizer
+android.autoinstalls.config.google.gtvpai
+com.google.android.apps.tv.dreamx
+com.realtek.karaoke.userguide
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith

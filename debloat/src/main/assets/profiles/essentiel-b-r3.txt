@@ -1,0 +1,18 @@
+# Essentiel b R3 (SCBC device R3, Realtek rtd2841a), France
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.feedback
+com.google.android.backdrop
+com.google.android.katniss
+com.google.android.apps.mediashell
+com.apps.scast
+com.creative.fastscreen.tv
+com.seraphic.hbbtv.app
+com.seraphic.webview
+com.android.gallery3d
+com.android.htmlviewer
+com.android.printspooler
+com.android.wallpaper.livepicker
+com.mk.tv.meeting.service
+com.google.android.tvlauncher

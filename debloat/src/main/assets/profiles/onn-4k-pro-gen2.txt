@@ -1,0 +1,15 @@
+# onn 4K Pro Streaming Device (Gen 2, Walmart; jarvis2, Amlogic S905X5M), US
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.play.games
+com.android.printspooler
+com.google.android.marvin.talkback
+com.android.providers.calendar
+com.google.android.syncadapters.calendar
+com.android.providers.contacts
+com.android.providers.userdictionary
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith

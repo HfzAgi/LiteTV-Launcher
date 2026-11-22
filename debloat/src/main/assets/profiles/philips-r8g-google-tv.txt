@@ -1,0 +1,16 @@
+# Philips R8G Google TV (MOKA, whitefield, Realtek RTD2851F), US
+tv.anoki.acr.anokiacroptin
+com.apps.esticker3
+com.android.tv.feedbackconsent
+com.google.android.feedback
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.realtek.leanbacklauncher.partnercustomizer
+com.seraphic.hbbtv.app
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.google.android.katniss
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

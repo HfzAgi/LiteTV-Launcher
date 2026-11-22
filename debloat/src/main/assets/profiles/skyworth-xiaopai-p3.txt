@@ -1,0 +1,15 @@
+# Skyworth Xiaopai P3 (Q5001, cupid-p2), streaming box
+com.tianci.ad
+com.skyworthdigital.ott.guide
+com.mipt.store
+com.jd.smartservicetwo
+com.skyworthdigital.softap
+com.skyworthdigital.smarthome
+com.skyworthdigital.skywechatclient
+com.skyworthdigital.optimization
+com.skyworthdigital.skycleandisk
+com.skyworthdigital.remotedebug
+com.skyworthdigital.miracast
+com.softwinner.dragonbox
+com.softwinner.agingdragonbox
+com.skyworthdigital.sky2dlauncherv4

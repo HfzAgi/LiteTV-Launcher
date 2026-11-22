@@ -1,0 +1,16 @@
+# VISIO 32" (VISIO TV / Iris 2K TV, shinagawa, MediaTek m5621)
+android.autoinstalls.config.skyworth
+com.smartdevice.common.demonow
+com.smartdevice.leanbacklauncher.customizer
+com.Smartdevice.emanual
+fusion.android.tv.demo
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.boot.appsplashscreen
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.marvin.talkback
+com.google.android.syncadapters.calendar
+com.google.android.tvlauncher
+com.google.android.tvrecommendations

@@ -1,0 +1,24 @@
+# TCL 43S5400A (C06, C06_2K_GB, MediaTek MT9221, 1 GB)
+com.tcl.usercenter
+com.tcl.guard
+com.tcl.partnercustomizer
+com.tcl.waterfall.overseas
+com.tcl.esticker
+android.autoinstalls.config.tcl.device
+com.tcl.audioplayer
+com.tcl.imageplayer
+com.tcl.copydatatotv
+com.tcl.t_solo
+com.tcl.messagebox
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.syncadapters.calendar
+com.google.android.partnersetup
+com.google.android.tvrecommendations
+com.google.android.katniss
+com.google.android.tv.assistant
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.tungsten.setupwraith
+com.google.android.backdrop

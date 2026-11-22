@@ -1,0 +1,15 @@
+# XGIMI Horizon 20 projector (XR13A, kasol)
+com.google.android.feedback
+com.xgimi.bugreportsender
+com.mediatek.tv.retaildemo
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.android.adservices.api
+com.android.providers.calendar
+com.google.android.syncadapters.calendar
+com.android.providers.contacts
+com.android.providers.userdictionary
+com.mediatek.dtv.tvinput.atsctuner
+com.mediatek.dtv.tvinput.isdbtuner
+com.mediatek.tv.oneworld.tvcenter
+com.google.android.tungsten.setupwraith

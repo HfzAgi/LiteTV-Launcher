@@ -1,0 +1,15 @@
+# Tuvio TD43UFBCV5 / TD50UFBCV5 (Changhong AI PONT, DVB96, MediaTek m7632), Russia
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.homwee.store
+com.homwee.help
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

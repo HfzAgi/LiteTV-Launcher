@@ -1,0 +1,20 @@
+# XGIMI MoGo 3 Pro projector (G0035, altai, MediaTek)
+fusion.android.tv.demo
+com.xgimi.atvwifiverify
+com.xgimi.minitvfactory
+com.xgimi.bugreportsender
+com.google.android.feedback
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.dreamx
+com.google.android.videos
+com.google.android.play.games
+com.google.android.marvin.talkback
+air.ITVMobilePlayer
+com.google.android.katniss
+com.google.android.tv.assistant
+com.google.android.apps.mediashell
+com.google.android.tv.remote.service
+com.xgimi.screensaver
+com.xgimi.ota.accessories
+com.xgimi.gimiplayer
+com.xgimi.doubanfm

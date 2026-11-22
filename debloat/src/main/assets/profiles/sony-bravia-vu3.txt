@@ -1,0 +1,22 @@
+# Sony BRAVIA KD-55X75K (BRAVIA_VU3_4K, Realtek rtd2885m)
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.sony.dtv.sonytab
+com.sony.dtv.multiscreendemo
+com.sony.dtv.smarthelp
+com.sony.dtv.helpguidecontents
+com.sonypicturescore
+com.android.adservices.api
+com.android.federatedcompute.services
+com.android.ondevicepersonalization.services
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+com.android.printspooler
+android.autoinstalls.config.google.gtvpai
+com.android.gallery3d
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

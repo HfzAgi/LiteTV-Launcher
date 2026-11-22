@@ -1,0 +1,10 @@
+# Kalley 43G200 (device R3_GTV, MOKA, Realtek RTD2841A), Latin America
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.realtek.leanbacklauncher.partnercustomizer
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.apps.wifihotspot
+com.android.printspooler

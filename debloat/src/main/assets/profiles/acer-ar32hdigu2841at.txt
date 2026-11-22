@@ -1,0 +1,25 @@
+# Acer AR32HDIGU2841AT 32" HD (device R3_GTV, MOKA, Realtek RTD2841A), India
+com.apps.function.gdpr
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.apps.mk.wd
+android.autoinstalls.config.scbc.device
+com.realtek.leanbacklauncher.partnercustomizer
+com.google.android.partnersetup
+com.apps.esticker
+com.apps.esticker3
+com.apps.biz.mt
+com.apps.biz.ds
+com.apps.tvmanager
+com.mk.tv.meeting.service
+com.apps.wifihotspot
+com.apps.function.audiolink
+com.mk.tv.timeclock
+com.google.android.apps.tv.dreamx
+com.google.android.apps.mediashell
+com.creative.fastscreen.tv
+com.apps.scast
+com.google.android.play.games
+com.mxtech.videoplayer.television
+com.apps.usbmediaplayer
+com.google.android.youtube.tvmusic

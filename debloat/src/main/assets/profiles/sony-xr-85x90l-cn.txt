@@ -1,0 +1,11 @@
+# Sony BRAVIA XR-85X90L (2023, BRAVIA_VH22, MediaTek), China
+com.sonyericsson.idd.agent
+com.sony.dtv.usercontext
+com.sony.dtv.da.service
+com.qterics.da.product
+com.sony.dtv.sonybugreportsys
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.dangbei.TVHomeLauncher
+com.dangbei.lerad.videoposter

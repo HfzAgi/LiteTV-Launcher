@@ -1,0 +1,12 @@
+# Sony BRAVIA BF1 (BRAVIA 2 II class, BRAVIA_BF1_4K_A, MediaTek)
+tv.samba.ssm
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.google.android.feedback
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.sonypicturescore

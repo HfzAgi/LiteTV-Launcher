@@ -1,0 +1,16 @@
+# TCL L40S66E (C06, C06_2K_GB, MediaTek MT9221, 1 GB), Argentina
+com.google.android.feedback
+android.autoinstalls.config.tcl.device
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.google.android.tvrecommendations
+com.tcl.partnercustomizer
+com.tcl.waterfall.overseas
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.useragreement
+com.tcl.usercenter
+com.tcl.guard
+com.google.android.apps.nbu.smartconnect.tv
+com.tcl.t_solo
+com.google.android.tungsten.setupwraith

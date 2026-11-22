@@ -1,0 +1,26 @@
+# JVC Android TV (Vestel-built, BARTU_Jvc, menlo, MediaTek mt5867), Spain
+com.vestel.vestelreporter
+com.vestel.tv.speedup
+com.vestel.smartcenter
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.onetimeinitializer
+android.autoinstalls.config.vestel.coma
+com.mstar.android.tv.disclaimercustomization
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.play.games
+com.google.android.katniss
+com.android.mgstv
+com.tcl.browser
+com.android.printspooler
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.android.dynsystem
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.google.android.tvrecommendations
+com.google.android.backdrop

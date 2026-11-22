@@ -1,0 +1,11 @@
+# Sony KD-55X7500 (BRAVIA 4K GB ATV3, BRAVIA_ATV3_4K_CN), China
+com.sony.dtv.sonyselect
+com.sony.dtv.discovery
+com.sony.dtv.bivlinfo
+com.google.android.tvrecommendations
+com.sony.dtv.demomode
+com.sony.dtv.demosupport
+com.sony.dtv.multiscreendemo
+com.sony.dtv.sonybugreportsys
+com.sony.dtv.da.service
+com.qterics.da.product

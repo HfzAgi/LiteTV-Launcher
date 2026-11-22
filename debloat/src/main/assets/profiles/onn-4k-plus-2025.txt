@@ -1,0 +1,16 @@
+# onn. 4K Plus Streaming (2025, Walmart; coffey, Amlogic S905X5M), US
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.play.games
+com.android.printspooler
+com.google.android.marvin.talkback
+com.google.android.apps.tv.dreamx
+com.google.android.youtube.tv
+com.google.android.youtube.tvmusic
+com.netflix.ninja
+com.netflix.tokenmanager
+com.google.android.apps.mediashell
+com.google.android.tungsten.setupwraith

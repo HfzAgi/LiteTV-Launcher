@@ -1,0 +1,21 @@
+# Philips 55POS9002/12 OLED (TP Vision TPM171E, PH7M_EU_5596, MediaTek MT5891), Europe
+com.google.android.feedback
+com.google.android.tvtutorials
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+org.droidtv.demome
+org.droidtv.nettvrecommender
+org.droidtv.usagelogger
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.tv.frameworklogger
+tv.inscape.tvclient.inscapeacr
+org.droidtv.sticker
+org.droidtv.twittershare
+org.droidtv.nettv.market
+org.droidtv.nettvapps
+org.droidtv.nettv_launcherapp
+org.droidtv.nettvregistration
+com.opera.sdk.example
+com.google.android.music
+com.google.android.play.games

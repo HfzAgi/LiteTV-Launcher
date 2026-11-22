@@ -1,0 +1,23 @@
+# Daewoo 50DM62UA (Vestel finch)
+com.vestel.vestelreporter
+com.vestel.smartlogger
+com.vestel.tv.speedup
+com.vestel.tv.eib
+android.autoinstalls.config.vestel.malin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.partnersetup
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.android.managedprovisioning
+com.android.dynsystem
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.google.android.syncadapters.calendar
+com.android.htmlviewer
+com.android.backupconfirm
+com.android.se
+com.google.android.play.games

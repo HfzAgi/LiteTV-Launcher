@@ -1,0 +1,15 @@
+# Continental Edison CELED50SAV222B6 (Expressluck guandu, MediaTek m7632), France
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+fusion.android.tv.demo
+com.mediatek.androidbox
+com.expressluck.tvhelpmanual
+com.mstar.android.tv.disclaimercustomization
+com.google.android.syncadapters.calendar

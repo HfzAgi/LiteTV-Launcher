@@ -1,0 +1,16 @@
+# BYINTEK Love U4 projector, 1080P (Skyworth RG_HS352, HiSilicon Hi3751V350, 1 GB), Brazil
+com.zeasn.deviceportal.asdprovider.skyworth_hisi352
+zeasn.open.technical.tv.store
+cn.wps.moffice_i18n_TV
+ru.vk.store.tv
+com.google.android.partnersetup
+com.google.android.carriersetup
+com.android.simappdialog
+com.google.android.syncadapters.contacts
+com.google.android.apps.pixelmigrate
+com.android.wallpaperbackup
+com.android.sharedstoragebackup
+com.toofifi.lineserver
+com.mphotool.usbcastserver
+com.google.android.feedback
+com.android.bips

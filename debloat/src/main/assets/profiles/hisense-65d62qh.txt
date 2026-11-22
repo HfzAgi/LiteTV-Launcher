@@ -1,0 +1,27 @@
+# Hisense 65D62QH (VIDAA_TV, MediaTek MT9653), China
+com.hisense.hitv.das
+com.hisense.platformreport
+com.hisense.logupload
+com.hisense.service.hproxy
+com.hisense.service.message
+com.hisense.business.ad
+com.hisense.service.ad
+com.hisense.widget.pro
+com.hisense.tv.weather
+com.hisense.demonstrate
+com.hisense.hotelmenu
+com.meetingroom
+com.hisense.autotest
+com.hisense.electronictutorial
+com.hisense.ar.baike
+com.jamdeo.tv.fte
+com.hisense.tv.videoconference
+com.hisense.tv.videochat.social
+com.hisense.tv.fitmirror
+com.hisense.tv.foodmanage
+com.vision.aibook
+com.jamdeo.calendar
+com.jamdeo.screensaver
+com.android.dreams.basic
+com.android.printspooler
+com.android.wallpaperbackup

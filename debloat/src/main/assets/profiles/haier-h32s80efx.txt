@@ -1,0 +1,15 @@
+# Haier H32S80EFX (MatrixTV CE, HRT56EU, deto, MediaTek), Thailand
+it.hon.service
+com.haierubic.usmartdevice
+com.google.android.feedback
+com.haier.oemtabprovider
+com.haier.apps
+com.mediatek.android.leanbacklauncher.partnercustomizer
+fusion.android.tv.demo
+com.haier.tvhousekeeper
+com.haier.emanual
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

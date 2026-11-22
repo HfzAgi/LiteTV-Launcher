@@ -1,0 +1,6 @@
+# PPTV p34a4p (Suning PPTV, Amlogic board), China
+com.pptv.newtvad
+com.pptv.push.service
+com.pptv.snisupdate
+com.pptv.screenprotect
+com.pptv.tvbuy

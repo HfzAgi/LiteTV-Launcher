@@ -1,0 +1,7 @@
+# Skyworth 7T864_H5D (MediaTek MT9638), China market
+com.tianci.ad
+com.tianci.de
+com.skyworth.performance.monitors
+com.skyworth.testtime
+com.skyworthdigital.stb.dataprovider
+com.skyworth.microphone

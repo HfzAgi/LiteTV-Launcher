@@ -1,0 +1,10 @@
+# Epson LS800 laser projector (Askey HA90 module, sti6202d101, Amlogic)
+com.google.android.feedback
+com.android.tv.feedbackconsent
+android.autoinstalls.config.askey.tvbox
+com.android.adservices.api
+com.android.printspooler
+com.google.android.play.games
+com.instagram.airwave
+tv.pluto.android
+com.epson.onlinemeetings

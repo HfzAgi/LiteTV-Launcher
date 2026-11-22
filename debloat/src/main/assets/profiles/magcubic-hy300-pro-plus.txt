@@ -1,0 +1,3 @@
+# Magcubic HY300 Pro+ projector (rk3566_rgo)
+com.android.music
+com.android.bips

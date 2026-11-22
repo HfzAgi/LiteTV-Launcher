@@ -1,0 +1,9 @@
+# Master-G 2K Smart TV (KTC mountbaker, KTC_MASTER_G_2K_SA_22GV1), Chile
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.electronic.manual
+com.google.android.play.games
+com.google.android.youtube.tvmusic

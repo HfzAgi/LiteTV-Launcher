@@ -1,0 +1,10 @@
+# Skyworth SWTV-21AE (sunnyvale, MediaTek)
+com.smartdevice.leanbacklauncher.customizer
+fusion.android.tv.demo
+com.Smartdevice.emanual
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.youtube.tv
+com.cltv.fast
+com.google.android.backdrop
+com.google.android.tvrecommendations

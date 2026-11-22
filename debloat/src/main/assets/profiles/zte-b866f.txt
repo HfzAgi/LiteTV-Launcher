@@ -1,0 +1,16 @@
+# ZTE B866F (milik sendiri) - edit file ini dari HP lewat GitHub.
+# Satu nama paket per baris. Awali dengan # untuk menonaktifkan baris itu.
+# Isi hanya yang aman: hasil "Pindai" di app + daftar Disarankan. Tambah paket bawaan operator di bawah.
+com.android.bips
+com.android.printspooler
+com.android.egg
+com.android.bluetoothmidiservice
+com.android.dreams.basic
+com.android.dreams.phototable
+com.android.wallpaperbackup
+com.android.traceur
+com.android.dynsystem
+com.google.android.feedback
+com.google.android.videos
+com.google.android.music
+com.google.android.play.games

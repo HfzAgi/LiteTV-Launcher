@@ -1,0 +1,25 @@
+# Tornado 65UA1400E (El Araby, Skyworth-built SW4H, MediaTek m7332), Egypt
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.android.printspooler
+com.smartdevice.leanbacklauncher.customizer
+com.smartdevice.acr.recommendation
+android.autoinstalls.config.SW
+com.smartdevice.recommendation
+com.smartdevice.epopplayer
+com.smartdevice.speedchannels
+com.Smartdevice.emanual
+com.mstar.android.tv.disclaimercustomization
+com.qjy.browser
+com.android.htmlviewer
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.android.dynsystem
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.partnercustomizer

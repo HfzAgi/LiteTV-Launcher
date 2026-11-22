@@ -1,0 +1,22 @@
+# Impex evoQ 4K (Changhong, GTVU64IP, board alimos, MediaTek mt5896), India
+tv.anoki.acr.controller
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+android.autoinstalls.config.google.gtvpai
+com.google.android.partnersetup
+com.homwee.store
+com.homwee.help
+tv.mopa.ginga
+com.android.printspooler
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.apple.atve.androidtv.appletv
+com.graymatrix.did
+com.jio.media.stb.ondemand
+tv.airtel.xstream.tvapp
+com.mediatek.miracast
+com.audiocn.karaoke.global.micmanager
+com.google.android.apps.tv.dreamx
+com.google.android.marvin.talkback
+com.google.android.tungsten.setupwraith

@@ -1,0 +1,9 @@
+# Haier MatrixTV BE
+com.haierubic.usmartdevice
+com.haier.apps
+com.haier.emanual
+com.haier.launcher.haiermatrix
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.feedback
+fusion.android.tv.demo
+com.google.android.tungsten.setupwraith

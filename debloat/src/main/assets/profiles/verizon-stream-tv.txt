@@ -1,0 +1,14 @@
+# Verizon Stream TV, 1st gen (WNC JS8V, Amlogic), US
+com.verizon.tv.ams
+com.google.android.katniss
+com.google.android.apps.mediashell
+com.google.android.backdrop
+com.google.android.marvin.talkback
+com.google.android.tts
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.youtube.tvunplugged
+com.hbo.hbonow
+com.android.gallery3d
+com.google.android.tv.setup.customizationsample
+com.verizon.tv.launcher

@@ -1,0 +1,19 @@
+# Skyworth SWTV-24NA-4K NF (eleonas, MediaTek mt5896), US
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+tv.mopa.ginga
+org.obs.mhegservice
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.Smartdevice.emanual
+com.google.android.katniss
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

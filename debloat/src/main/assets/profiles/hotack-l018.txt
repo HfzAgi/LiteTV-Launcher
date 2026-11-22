@@ -1,0 +1,19 @@
+# HOTACK L018 Smart Projector (Allwinner H713, reports ADT-3, LuminaOS)
+com.hotack.screensaversdk
+com.htc.clearmemory
+com.android.music
+com.mobisystems.office
+com.htc.storeos
+com.android.egg
+com.android.htmlviewer
+com.android.printspooler
+com.android.bips
+com.android.printservice.recommendation
+com.mphotool.airplay
+com.mphotool.dlna
+com.mphotool.usbcastserver
+com.softwinner.miracastReceiver
+com.htc.samescreen
+com.toofifi.lineserver
+com.android.toofifi
+com.google.android.katniss

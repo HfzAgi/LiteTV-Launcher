@@ -1,0 +1,15 @@
+# Haier MatrixTV GE (HR9216EU, haeundae, MediaTek), EU
+com.haierubic.usmartdevice
+com.haier.oemtabprovider
+com.haier.apps
+com.haier.launcher.haiermatrix
+com.haier.tvhousekeeper
+com.haier.emanual9603
+com.google.android.feedback
+tv.anoki.acr.anokiacroptin
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.play.games
+fusion.android.tv.demo
+com.google.android.youtube.tvmusic
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith

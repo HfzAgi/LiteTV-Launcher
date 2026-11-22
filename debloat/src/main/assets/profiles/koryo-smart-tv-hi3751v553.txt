@@ -1,0 +1,21 @@
+# Koryo 55" 4K Smart TV (CVTE TP.HV553.PC821B, HiSilicon Hi3751V553, 1 GB)
+com.cvte.tv.steward
+com.cvte.tv.pictorial
+com.cvte.ui.help.unit2k17
+cn.zeasn.cvte.HV553.vstoresubclient
+com.zeasn.services.general
+com.ecloud.eshare.server
+com.ecloud.eairplay
+com.ecloud.emedia
+com.hisilicon.miracast
+com.hisilicon.dlna.dmp
+com.hisilicon.dlna.dmr
+com.hisilicon.dlna.dms
+com.google.android.feedback
+com.google.android.marvin.talkback
+com.google.android.voicesearch
+com.google.android.youtube.tv
+com.netflix.mediaclient
+com.android.browser
+com.android.egg
+com.svox.pico

@@ -1,0 +1,22 @@
+# Polytron 2K (WLTV POLYTRON2K, hayward; Hisense/CVTE board, MediaTek mt5867), Indonesia
+android.autoinstalls.config.hisense
+android.autoinstalls.config.hisense.hayward
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+fusion.android.tv.demo
+com.google.android.tungsten.setupwraith
+com.google.android.feedback
+com.google.android.partnersetup
+com.mstar.android.tv.disclaimercustomization
+com.android.printspooler
+com.android.providers.calendar
+com.google.android.syncadapters.calendar
+com.google.android.katniss
+com.google.android.backdrop
+com.google.android.youtube.tv
+com.netflix.ninja
+com.google.android.apps.mediashell
+com.google.android.tts
+com.google.android.play.games
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic

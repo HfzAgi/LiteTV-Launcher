@@ -1,0 +1,9 @@
+# BenQ E55-750 (Changhong AI PONT, DVB96BQ)
+com.homwee.store
+com.homwee.help
+com.google.android.videos
+com.google.android.apps.tv.dreamx
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

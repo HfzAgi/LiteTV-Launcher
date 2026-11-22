@@ -1,0 +1,17 @@
+# PRISM+ P4KA 4K AI TV (device SW6H, made by Skyworth/Coocaa)
+com.coocaa.demonow.lightining
+com.smartdevice.epopplayer
+com.smartdevice.aftersale
+com.smartdevice.dailymanage
+com.smartdevice.dailyshortcut
+com.smartdevice.myapp
+com.tianci.localmedia
+com.smartdevice.factory
+mediatek.factorymenu.ui
+com.Smartdevice.emanual
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.google.android.videos
+com.google.android.feedback
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

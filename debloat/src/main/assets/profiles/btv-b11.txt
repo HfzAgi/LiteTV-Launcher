@@ -1,0 +1,14 @@
+# BTV B11 (franklin, Amlogic), streaming box
+com.android.icore
+com.factorytools.factorystability
+com.google.android.feedback
+com.google.android.apps.pixelmigrate
+com.droidlogic.miracast
+com.droidlogic.mediacenter
+com.android.dreams.phototable
+com.android.camera2
+com.android.smspush
+com.android.chrome
+com.android.gallery3d
+com.android.music
+com.android.deskclock

@@ -1,0 +1,26 @@
+# Xiaomi TV Box S 3rd gen (MiTV-AFMU0, twilight, Amlogic), streaming box
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas.y24
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.oemtab
+com.xm.webcontent
+android.autoinstalls.config.soc.amlogic
+com.xiaomi.mitv.smartshare
+com.xiaomi.wfdsinkhelperservice
+com.xiaomi.mi_connect_service
+com.disney.disneyplus
+com.wbd.hbomax
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.xiaomi.mimusic2
+com.xiaomi.mitv.mediaexplorer
+com.mitv.videoplayer
+com.android.printspooler
+com.mitv.gallery
+com.google.android.tungsten.setupwraith

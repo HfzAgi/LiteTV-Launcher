@@ -1,0 +1,16 @@
+# TCL ak30a5 (China, Amlogic)
+com.tcl.bootadservice
+com.tcl.bi
+com.tcl.ffkaraoke
+com.tcl.ffeducation
+com.tcl.tclmusic
+com.tcl.gamecenter
+com.tcl.playskill
+com.tcl.appreciate.art
+com.tcl.browser
+com.tcl.common.weather
+com.tcl.wholenetsearch
+com.tcl.useragreement
+com.tcl.tvhealthcheck
+com.tcl.logkit
+com.iflytek.xiri.translate

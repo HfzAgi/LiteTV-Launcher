@@ -1,0 +1,27 @@
+# TCL BeyondTV, Poland (Realtek RTD2851, AP03, 2 GB)
+com.tcl.bi
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+android.autoinstalls.config.tcl.device
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.tcl.partnercustomizer
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.cyberui
+com.tcl.ui_mediaCenter
+com.tcl.keyhelp
+com.google.android.katniss
+com.google.android.speech.pumpkin
+com.tcl.assistant
+com.google.android.tv.assistant
+com.tcl.miracast
+com.tcl.MultiScreenInteraction_TV
+com.google.android.youtube.tv
+pl.tvn.player.tv
+com.spotify.tv.android
+com.valvesoftware.steamlink
+com.tcl.tvweishi
+com.tcl.appmarket2

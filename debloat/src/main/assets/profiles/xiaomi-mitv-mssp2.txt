@@ -1,0 +1,17 @@
+# Xiaomi MiTV-MSSP2 (volver, MediaTek), firmware PI.4621, low-RAM
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.mitv.tvhome.atv
+com.xm.webcontent
+android.autoinstalls.config.xiaomi.amelie
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.xiaomi.mitv.tvmanager
+com.android.printspooler
+com.google.android.play.games
+com.google.android.music
+com.google.android.videos
+com.google.android.tvlauncher
+com.google.android.leanbacklauncher

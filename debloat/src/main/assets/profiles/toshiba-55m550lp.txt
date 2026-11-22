@@ -1,0 +1,9 @@
+# Toshiba 55M550LP (Hisense-built, songshan, MediaTek m7632), Malaysia
+com.hisense.storemode
+fusion.android.tv.demo
+com.hisense.fte
+android.autoinstalls.config.google.gtvpai
+com.mstar.android.tv.disclaimercustomization
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.tungsten.setupwraith

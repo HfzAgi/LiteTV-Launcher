@@ -1,0 +1,14 @@
+# TIM TIMVISION Box (Technicolor DWT765TI, Marvell Berlin), Italy
+timvision.telemetry
+com.smarts.smartagentpassivestb
+com.movenda.omadm.tv
+com.movenda.p4mcore
+com.technicolor.android.BootupTraceQR
+com.technicolor.cputemperature
+com.google.android.feedback
+com.google.android.katniss
+com.google.android.speech.pumpkin
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.google.android.tvtutorials
+com.google.android.backdrop

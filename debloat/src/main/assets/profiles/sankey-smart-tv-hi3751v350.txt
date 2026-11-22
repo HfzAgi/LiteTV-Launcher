@@ -1,0 +1,9 @@
+# Sankey SMART_TV (CVTE, HiSilicon Hi3751V350, 1 GB)
+com.cvte.gaia.ad.service
+com.cvte.wonder.cloud.service
+com.cvte.industries
+com.cvte.tv.pictorial
+com.cvte.tv.steward
+com.cvte.tv.weather
+com.google.android.feedback
+com.hisilicon.miracast

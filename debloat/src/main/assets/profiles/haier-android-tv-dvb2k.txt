@@ -1,0 +1,15 @@
+# Haier Android TV DVB2K (broadway, HaierATVT56DVB; also sold as the CANDY Android TV DVB2K, CANDYATVT56)
+tv.anoki.acr.controller
+fusion.android.tv.demo
+com.haierubic.usmartdevice
+com.haier.yudee.tv
+com.haier.sharetv.webview
+com.haier.apps
+com.haier.launcher.haiermatrix
+com.haier.tvhousekeeper
+com.cvte.haier.tv.appmanager
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+android.autoinstalls.config.haier.hanyang

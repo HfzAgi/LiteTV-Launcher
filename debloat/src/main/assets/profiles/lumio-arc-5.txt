@@ -1,0 +1,17 @@
+# Lumio Arc 5 Projector (MediaTek)
+com.google.android.feedback
+com.google.android.partnersetup
+com.android.htmlviewer
+com.android.wallpaperbackup
+com.android.sharedstoragebackup
+com.android.backupconfirm
+com.android.hotspot2.osulogin
+com.android.printspooler
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.google.android.videos
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization

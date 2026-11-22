@@ -1,0 +1,13 @@
+# Tele System TS ON T2/HD (ONT2HD, SDMC, Amlogic), Italy
+com.sdmc.facTest
+com.sdmc.leakbackcustomer
+com.sdmc.hwinfo
+android.autoinstalls.config.sdmc
+com.google.android.katniss
+com.google.android.marvin.talkback
+com.google.android.tvrecommendations
+com.google.android.youtube.tvmusic
+com.google.android.partnersetup
+com.google.android.videos
+com.google.android.feedback
+com.google.android.play.games

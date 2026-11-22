@@ -1,0 +1,27 @@
+# Acer R3 (SCBC device R3, Realtek rtd2841a), India
+com.apps.function.gdpr
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.apps.mk.wd
+android.autoinstalls.config.scbc.device
+com.google.android.tvrecommendations
+com.apps.esticker
+com.mk.tv.meeting.service
+com.apps.tvmanager
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.apps.wifihotspot
+com.mk.tv.timeclock
+com.apps.function.audiolink
+com.android.dreams.basic
+com.android.printspooler
+com.apps.usbmediaplayer
+com.seraphic.webview
+com.seraphic.hbbtv.app
+com.google.android.marvin.talkback
+com.apps.scast

@@ -1,0 +1,6 @@
+# JVC LT-43KM4584
+com.google.android.play.games
+com.google.android.feedback
+com.android.tv.feedbackconsent
+tv.anoki.acr.anokiacroptin
+com.electronic.manual

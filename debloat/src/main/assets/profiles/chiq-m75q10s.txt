@@ -1,0 +1,20 @@
+# CHiQ M75Q10S 75" 4K (Changhong "AI PONT MAX FF", G4FFDVB87, ventura, MediaTek mt5889)
+tv.anoki.acr.anokiacroptin
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.homwee.store
+com.homwee.help
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.android.dynsystem
+com.android.wallpaperbackup
+com.google.android.tts
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

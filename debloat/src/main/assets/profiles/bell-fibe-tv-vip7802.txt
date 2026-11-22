@@ -1,0 +1,13 @@
+# Bell Fibe TV (ARRIS VIP7802)
+com.commscope.report.bell
+com.commscope.report.companion.bell
+com.commscope.notification.bell.merlin
+com.arris.notificationlistener.bell
+com.arris.bugreport
+com.arris.android.stb.fti
+com.arris.quickactions
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.feedback
+com.google.android.tvrecommendations

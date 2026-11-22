@@ -1,0 +1,20 @@
+# Vidda C1S and C1 4K laser projectors (VIDAA_TV, device MT9669, board m7642), China JuUI
+com.hisense.hitv.das
+com.hisense.logupload
+com.hisense.service.hproxy
+com.hisense.service.message
+com.hisense.business.ad
+com.hisense.service.ad
+com.hisense.tv.weather
+com.hisense.cloudfalcon
+com.hisense.demonstrate
+com.hisense.hotelmenu
+com.hisense.autotest
+com.hisense.electronictutorial
+com.hisense.ar.baike
+com.jamdeo.tv.fte
+fusion.android.tv.demo
+com.hisense.tv.foodmanage
+com.jamdeo.calendar
+com.jamdeo.screensaver
+com.android.printspooler

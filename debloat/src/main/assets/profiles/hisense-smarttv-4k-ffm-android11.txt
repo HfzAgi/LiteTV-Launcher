@@ -1,0 +1,7 @@
+# Hisense SmartTV 4K FFM (songshan, MediaTek m7632); also the US Hisense 50A6H4 and 65U6G
+com.hisense.storemode
+fusion.android.tv.demo
+com.hisense.fte
+android.autoinstalls.config.google.gtvpai
+com.mstar.android.tv.disclaimercustomization
+com.google.android.tungsten.setupwraith

@@ -1,0 +1,9 @@
+# XGIMI MoGo 2 projector (MoGo, xgimiapollo, pokemon)
+com.xgimi.datareporter
+com.xgimi.bugreportsender
+com.google.android.feedback
+com.ted.android.tv
+com.xgimi.doubanfm
+com.google.android.apps.mediashell
+com.google.android.apps.nbu.smartconnect.tv
+com.xgimi.upgrade

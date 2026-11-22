@@ -1,0 +1,13 @@
+# TCL 43S5K / 32V5C (G13, G13_2K_GB, MediaTek MT9221/MT5867, 1 GB), India; also a G13 unit from Brazil, a 40" V5C on AU13, a 32V51C from Indonesia (AU13), a second AU10 unit and a 50S5K from Colombia (AU11)
+com.tcl.messagebox
+com.tcl.logkit
+android.autoinstalls.config.google.gtvpai
+com.google.android.partnersetup
+com.tcl.browser
+com.google.android.play.games
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.katniss
+com.mediatek.MtkDemo
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.dreamx

@@ -1,0 +1,6 @@
+# HAAM HM4K75S11TND (SCBC R4)
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.apps.eshow
+com.apps.esticker
+com.mk.tv.booster

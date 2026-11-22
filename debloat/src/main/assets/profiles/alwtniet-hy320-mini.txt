@@ -1,0 +1,9 @@
+# Alwtniet HY320 Mini projector (device adt3, Askey; Allwinner/HTC firmware), 1 GB, 720p
+com.htc.expandsdk
+com.htc.eventuploadservice
+com.htc.storeos
+com.htc.hyk_test
+com.softwinner.agingdragonbox
+com.softwinner.dragonbox
+com.softwinner.dragonatt
+com.huawei.appmarket

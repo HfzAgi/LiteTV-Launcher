@@ -1,0 +1,18 @@
+# Toshiba (Vestel Cosmos170, yeoksam, MediaTek), Spain
+com.vestel.vestelreporter
+fusion.android.tv.demo
+android.autoinstalls.config.vestel.cosmos
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.partnercustomizer
+com.google.android.feedback
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.google.android.play.games
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.backdrop
+com.google.android.youtube.tv
+com.google.android.youtube.tvmusic
+com.amazon.amazonvideo.livingroom
+com.mediatek.wwtv.mediaplayer
+com.mediatek.tv.freeviewplay
+com.google.android.tvlauncher

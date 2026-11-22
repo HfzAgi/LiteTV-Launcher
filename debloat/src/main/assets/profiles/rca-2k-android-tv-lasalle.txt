@@ -1,0 +1,16 @@
+# RCA 2K Android TV (KONKA, device lasalle, Realtek RTD2841A, ISDB)
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.android.dreams.basic
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.videos
+com.eltelon.zapping
+com.alphainventor.filemanager
+com.rtk.mediabrowser
+com.google.android.backdrop

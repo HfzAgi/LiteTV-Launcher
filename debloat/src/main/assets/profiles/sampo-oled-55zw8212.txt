@@ -1,0 +1,21 @@
+# SAMPO OLED-55ZW8212 (SWTV-22TW-4K, Skyworth anaheim, MediaTek), Taiwan
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.coocaa.demonow.lightining
+fusion.android.tv.demo
+com.smartdevice.factory
+mediatek.factorymenu.ui
+com.google.android.apps.nbu.smartconnect.tv
+android.autoinstalls.config.google.gtvpai
+com.Smartdevice.emanual
+com.tianci.localmedia
+com.google.android.marvin.talkback
+com.google.android.play.games
+com.google.android.videos
+com.smartdevice.dtv.icast
+com.mediatek.androidbox
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.dreamx

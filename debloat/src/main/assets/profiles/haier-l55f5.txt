@@ -1,0 +1,20 @@
+# Haier L55F5 (LRM9633_ALI7H_A)
+com.yunos.advert.service
+com.haier.tv.electag
+com.haier.activeuser
+com.haier.tv.modelintroduction
+com.haier.tv.downloadapk
+com.yunos.tv.edu
+com.yunos.music
+com.haier.tv.intelligentvoice
+com.haier.tv.tmallasr
+com.haier.tv.voicemedia
+com.haier.tv.mic.detect
+com.haier.uhome.uplustv
+com.haierubic.usmartdevice
+com.haier.tv.iotprovider
+com.haier.tv.appversion
+com.android.deskclock
+com.android.calendar
+com.android.contacts
+com.android.camera2

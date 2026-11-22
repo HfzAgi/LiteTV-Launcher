@@ -1,0 +1,27 @@
+# Sony BRAVIA KD-55X8509C (2015, "BRAVIA 4K 2015", SVP-DTV15, MediaTek), EU firmware
+com.qterics.da.product
+com.sony.dtv.da.service
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.sony.dtv.b2b.vendorprotocol
+com.sony.dtv.discovery
+com.sony.dtv.bivlinfo
+com.sony.dtv.sonyselect
+com.sony.dtv.sonyshelf
+com.sony.dtv.recommendationservice
+com.sony.dtv.woprecommendation
+com.sony.dtv.irbrecommendation
+com.sony.dtv.networkrecommendation
+com.sony.dtv.watchtvrecommendation
+android.autoinstalls.config.sony.bravia
+com.sony.dtv.demomode
+com.sony.dtv.customersupport
+com.sony.dtv.smarthelp
+com.sony.dtv.imanual
+com.sony.dtv.bravialifehack
+com.sony.snei.video.hhvu
+com.google.android.inputmethod.japanese
+com.google.android.katniss
+com.google.android.speech.pumpkin
+com.sony.dtv.youview
+com.youview.tv.servicehost

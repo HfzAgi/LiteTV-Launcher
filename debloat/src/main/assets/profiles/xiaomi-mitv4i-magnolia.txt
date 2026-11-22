@@ -1,0 +1,23 @@
+# Xiaomi MiTV4I (magnolia, Amlogic)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.mitv.tvhome.atv
+com.mitv.tvhome.mitvplus
+com.xm.webcontent
+co.sensara.tv.mitv
+co.sensara.tv.mitv.res
+android.autoinstalls.config.xiaomi.amelie
+android.autoinstalls.config.xioami.dangal
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.xiaomi.mitv.tvmanager
+com.mitv.tvlock
+com.xiaomo.tv.milegal
+com.xiaomi.android.tvsetup.partnercustomizer
+com.google.android.tv.bugreportsender
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.google.android.videos
+com.mitv.gallery
+com.mitv.videoplayer

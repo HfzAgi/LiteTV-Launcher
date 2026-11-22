@@ -1,0 +1,27 @@
+# TCL Smart TV Pro (G08, G08_4K_GB, MediaTek), Australian firmware
+com.tcl.dashboard
+com.tcl.messagebox
+com.tcl.tv.tclhome_passive
+com.tcl.exhibit
+com.tcl.esticker
+com.tcl.hotelmenu
+com.tcl.ocean.instructions
+com.tcl.repairguide
+com.tcl.logkit
+com.tcl.usercenter
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.tcl.guard
+com.tcl.hearaid
+com.tcl.t_solo
+com.tcl.smartalexa
+com.google.android.play.games
+com.android.printspooler
+com.tcl.android.webview
+com.mediatek.support.webview
+com.mediatek.backgrounddetection
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith

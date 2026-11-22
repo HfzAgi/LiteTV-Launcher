@@ -1,0 +1,18 @@
+# AiPro2K (Expressluck, dongnae; Changhong AI PONT family)
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.syncadapters.calendar
+com.google.android.play.games
+fusion.android.tv.demo
+com.mediatek.androidbox
+com.google.android.youtube.tvmusic
+com.google.android.apps.tv.dreamx
+com.google.android.tts
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

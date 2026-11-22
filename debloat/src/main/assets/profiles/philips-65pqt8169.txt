@@ -1,0 +1,14 @@
+# Philips 65PQT8169/56 (KTC, KTC_PHILIPS_4K_DVB_22GV1, hongkong, MediaTek m7632), UAE
+com.google.android.feedback
+android.autoinstalls.config.google.gtvpai
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.onetimeinitializer
+com.google.android.apps.nbu.smartconnect.tv
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.ktc.serialport
+com.ktc.tv.factory
+mediatek.factorymenu.ui
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith

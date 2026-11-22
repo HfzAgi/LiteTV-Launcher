@@ -1,0 +1,23 @@
+# XGIMI MoGo 4 projector (WK08K, altai, MediaTek)
+fusion.android.tv.demo
+com.xgimi.atvwifiverify
+com.xgimi.minitvfactory
+com.xgimi.bugreportsender
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.mstar.android.tv.disclaimercustomization
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.google.android.partnersetup
+com.google.android.tungsten.setupwraith
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.google.android.marvin.talkback
+com.google.android.katniss
+com.google.android.tv.assistant
+com.google.android.tv.remote.service
+com.xgimi.doubanfm
+com.disney.disneyplus
+com.orange.owtv.tv
+com.google.android.apps.tv.launcherx

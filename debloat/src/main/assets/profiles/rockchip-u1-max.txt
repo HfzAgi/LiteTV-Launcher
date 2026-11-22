@@ -1,0 +1,21 @@
+# U1 Max (Rockchip rk3328, generic box)
+com.google.android.partnersetup
+com.google.android.backuptransport
+com.google.android.syncadapters.contacts
+com.android.wallpaperbackup
+com.android.sharedstoragebackup
+com.android.printspooler
+com.android.bookmarkprovider
+com.android.companiondevicemanager
+com.google.android.googlequicksearchbox
+com.rockchips.dlna
+com.waxrain.airplaydmr
+com.cghs.stresstest
+com.rockchip.devicetest
+com.example.a
+cyx.browser
+com.android.htmlviewer
+com.android.camera2
+com.android.dreams.basic
+com.android.inputmethod.pinyin
+jp.co.omronsoft.openwnn

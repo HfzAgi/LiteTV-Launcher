@@ -1,0 +1,17 @@
+# Acer P Series AR32AP2841HDFL 32" HD (SCBC R1, Realtek RTD2841), India
+com.apps.function.gdpr
+com.google.android.feedback
+android.autoinstalls.config.scbc.device
+com.google.android.partnersetup
+com.realtek.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+com.apps.esticker
+com.apps.eshow
+com.apps.clear
+com.apps.networkspeed
+com.apps.timeclock
+com.apps.wifihotspot
+com.apps.function.audiolink
+com.apps.channels
+com.vewd.core.service
+com.google.android.apps.nbu.smartconnect.tv

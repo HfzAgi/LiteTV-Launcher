@@ -1,0 +1,24 @@
+# Philips 50PUD7406/43 (TPV, PH0M_EA_T32, MStar/MediaTek), Chile; 55PUS7906/12, Lithuania; 50PUS7906/12, Germany; 43PUS7406/12, Italy; 50PUD7406/77, Latin America; 50PUS8107/12, EU; 65PUS7956, EU; 43PUS8007/12, Germany; 43PUS7906/12, EU/UK
+org.droidtv.candeebug
+org.droidtv.gel
+org.droidtv.tv.frameworklogger
+com.tpv.xmic.ots.cms.client
+org.droidtv.nettv.market
+org.droidtv.android.fitness
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+com.google.android.backdrop
+com.google.android.apps.mediashell
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+android.autoinstalls.config.tpv.device
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.spotify.tv.android

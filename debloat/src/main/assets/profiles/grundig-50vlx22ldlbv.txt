@@ -1,0 +1,15 @@
+# Grundig 50VLX22LDLBV (Arçelik, CO3Plus, sinchon, MediaTek), Netherlands
+com.google.android.feedback
+com.google.android.partnersetup
+android.autoinstalls.config.arcelik.an
+com.mstar.android.tv.disclaimercustomization
+com.google.android.syncadapters.calendar
+com.google.android.onetimeinitializer
+com.android.printspooler
+com.netflix.ninja
+com.google.android.youtube.tvmusic
+com.google.android.katniss
+com.google.android.tv.remote.service
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
+com.google.android.backdrop

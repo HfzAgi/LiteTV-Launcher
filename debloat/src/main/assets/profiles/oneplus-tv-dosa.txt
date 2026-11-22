@@ -1,0 +1,14 @@
+# OnePlus TV (Dosa, Oneplus_Dosa_IN)
+com.google.android.feedback
+com.heytap.mcs
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.google.android.boot.appsplashscreen
+com.oneplus.oobe.tv
+android.autoinstalls.config.OnePlus
+com.oneplus.tv.launcher
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.partnercustomizer
+com.oneplus.tv.userguide
+com.oneplus.tv.imagewall
+com.google.android.play.games

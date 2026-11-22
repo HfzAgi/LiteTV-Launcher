@@ -1,0 +1,9 @@
+# RockTek GB1
+com.android.ondevicepersonalization.services
+com.android.adservices.api
+com.android.federatedcompute.services
+com.google.android.feedback
+com.google.android.youtube.tvmusic
+com.netflix.ninja
+com.rtk.mediabrowser
+com.google.android.tungsten.setupwraith

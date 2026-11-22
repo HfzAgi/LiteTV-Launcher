@@ -1,0 +1,17 @@
+# XGIMI Z9X projector (Product_raptor, snake_deep, G0074), China
+com.xgimi.adservice
+com.xgimi.datareporter
+com.xgimi.bugreportsender
+com.xgimi.msgcenter
+com.xgimi.instruction30
+com.xgimi.doubanfm
+com.xgimi.stream.video
+com.xgimi.atmosphere
+com.ktcp.tvvideo
+com.netease.cloudmusic.tv
+com.tencent.qqmusictv
+com.gitvjimi.video
+com.cibn.tv
+com.xgimi.account
+com.xgimi.user
+com.xgimi.payview

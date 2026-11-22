@@ -1,0 +1,14 @@
+# SHARP AQUOS-TVX19B (AQUOS-TVX19B, gangnam, MediaTek m7322), Taiwan
+com.sharplabs.dmt.aas.analyticsservice
+tv.anoki.acr.controller
+fusion.android.tv.demo
+jp.co.sharp.av.android.epopdemo
+azan.android.av.sharp.co.jp
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.videos
+com.google.android.music
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.android.dreams.basic
+com.google.android.tvlauncher

@@ -1,0 +1,17 @@
+# Síragon 58DA7000 (KTC, MediaTek MT7632, zhongshan, KTC_SIRAGON_4K_SA_21V2), Venezuela
+com.google.android.tvrecommendations
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.amazon.amazonvideo.livingroom
+fusion.android.tv.demo
+com.google.android.backdrop
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.android.wallpaperbackup
+com.mediatek.tv.freeviewplay
+android.autoinstalls.config.ktc.pai
+com.google.android.tungsten.setupwraith
+com.google.android.tvlauncher

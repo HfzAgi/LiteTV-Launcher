@@ -21,11 +21,11 @@ jobs:
         with:
           gradle-version: '8.9'
       - name: Build APK
-        run: gradle --no-daemon :app:assembleDebug :debloat:assembleDebug
+        run: gradle --no-daemon :app:assembleDebug :debloat:assembleDebug :home:assembleRelease
       - name: Verify APK (signature and manifest)
         run: |
           BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
-          for APK in app/build/outputs/apk/debug/app-debug.apk debloat/build/outputs/apk/debug/debloat-debug.apk; do
+          for APK in app/build/outputs/apk/debug/app-debug.apk debloat/build/outputs/apk/debug/debloat-debug.apk home/build/outputs/apk/release/home-release.apk; do
             "$BT/apksigner" verify --verbose --print-certs "$APK"
             "$BT/aapt2" dump badging "$APK" | head -20
           done
@@ -34,6 +34,7 @@ jobs:
           mkdir -p dist
           cp app/build/outputs/apk/debug/app-debug.apk dist/LiteTV-Launcher.apk
           cp debloat/build/outputs/apk/debug/debloat-debug.apk dist/BersihSTB.apk
+          cp home/build/outputs/apk/release/home-release.apk dist/TV-Home-Bersih.apk
       - uses: actions/upload-artifact@v4
         with:
           name: LiteTV-APK
@@ -60,7 +61,7 @@ jobs:
           arch: x86_64
           target: default
           disable-animations: true
-          script: sh scripts/ci-test.sh apk/LiteTV-Launcher.apk com.litetv.launcher home screen-launcher.png && sh scripts/ci-test.sh apk/BersihSTB.apk com.litetv.bersih launcher screen-bersih.png
+          script: sh scripts/ci-test.sh apk/LiteTV-Launcher.apk com.litetv.launcher home screen-launcher.png && sh scripts/ci-test.sh apk/BersihSTB.apk com.litetv.bersih launcher screen-bersih.png && sh scripts/ci-test.sh apk/TV-Home-Bersih.apk com.gathin.tvhome home screen-home.png
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -82,7 +83,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "build-${{ github.run_number }}" apk/LiteTV-Launcher.apk apk/BersihSTB.apk \
+          gh release create "build-${{ github.run_number }}" apk/LiteTV-Launcher.apk apk/BersihSTB.apk apk/TV-Home-Bersih.apk \
             --repo "${{ github.repository }}" --prerelease \
             --title "LiteTV debug build #${{ github.run_number }}" \
             --notes "Debug APK. Lolos tes pasang dan buka di emulator Android 14."

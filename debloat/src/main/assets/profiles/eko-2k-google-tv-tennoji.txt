@@ -1,0 +1,17 @@
+# EKO 2K Google TV (MTC-built, tennoji, MediaTek mt5867 / T56)
+tv.anoki.acr.anokiacroptin
+com.android.adservices.api
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.mstar.android.tv.disclaimercustomization
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.mediatek.androidbox
+com.google.android.katniss
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.dreamx

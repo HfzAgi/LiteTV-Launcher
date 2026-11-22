@@ -1,0 +1,26 @@
+# Philips Google TV TA7 (TPV, PH3M_AL_T32, MediaTek), Brazil; 55PUD7908/77, Latin America; 50PUD7408/77, Argentina; 55PUG7908/78, Brazil
+org.droidtv.candeebug
+org.droidtv.gel
+com.google.android.partnersetup
+android.autoinstalls.config.tpv.device
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.android.tv.feedbackconsent
+com.google.android.feedback
+com.mediatek.opapp
+org.droidtv.consentcmpapp
+com.mstar.android.tv.disclaimercustomization
+fusion.android.tv.demo
+com.google.android.play.games
+com.google.android.onetimeinitializer
+com.google.android.syncadapters.calendar
+com.android.printspooler
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.google.android.videos
+com.google.android.apps.mediashell
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

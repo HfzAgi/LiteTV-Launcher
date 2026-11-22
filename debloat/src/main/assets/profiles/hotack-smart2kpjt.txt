@@ -1,0 +1,21 @@
+# HOTACK SMART2KPJT projector, "Whale TV 95C8" (Amlogic am30b8, WhaleOS S8E, Zeasn firmware)
+com.whaletv.logger
+com.zeasn.tokenapp
+com.zeasn.deviceportal.asdprovider.certified
+com.stm
+com.stm.factorytest
+com.android.printspooler
+com.android.musicfx
+com.android.music
+com.android.providers.calendar
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.wallpaperbackup
+com.android.dreams.phototable
+org.chromium.webview_shell
+com.netflix.ninja
+com.netflix.dial
+com.netflix.tokenmanager
+com.zeasn.tv.cast
+com.droidlogic.miracast
+com.aml.dial

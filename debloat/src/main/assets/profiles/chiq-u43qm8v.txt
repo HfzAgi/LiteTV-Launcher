@@ -1,0 +1,14 @@
+# CHiQ U43QM8V 43" (Changhong AI PONT, DVB99CQ, changi)
+com.homwee.store
+com.homwee.help
+com.homwee.upgrade
+android.autoinstalls.config.google.gtvpai
+com.google.android.feedback
+com.google.android.syncadapters.calendar
+com.amazon.amazonvideo.livingroom
+com.wbd.stream
+com.iqiyi.i18n.tv
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.google.android.katniss
+com.google.android.tungsten.setupwraith

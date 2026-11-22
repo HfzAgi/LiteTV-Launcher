@@ -1,0 +1,13 @@
+# Xiaomi Mi Box 4S Pro (MiTV-AZFP0, frozen), China
+com.miui.tv.analytics
+com.miui.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs
+com.mitv.cloudcontrol
+com.xiaomi.mitv.shop
+com.mitv.shoplugin
+com.xm.webcontent
+com.xiaomi.gamecenter.sdk.service.mibox
+com.xiaomi.screenrecorder
+com.xiaomi.mitv.calendar
+com.mitv.gallery

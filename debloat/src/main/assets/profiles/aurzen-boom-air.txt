@@ -1,0 +1,5 @@
+# Aurzen BOOM Air portable projector (SDMC, AURZEN_BOOMAIR, himalaya, MediaTek m7332)
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.play.games
+com.google.android.marvin.talkback

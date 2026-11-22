@@ -1,0 +1,27 @@
+# TCL ES560, likely 32ES560 (TCL-built UnionTV, Realtek RT2841, TCL-EU-RT2841-S1)
+com.tcl.bi
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.tcl.partnercustomizer
+com.tcl.partnercustomizer.resource
+com.google.android.leanbacklauncher.partnerwidget
+com.google.android.leanbacklauncher.partnercustomizer
+android.autoinstalls.config.tcl.device
+com.tcl.esticker
+com.tcl.cyberui
+com.tcl.appmarket2
+com.tcl.tvweishi
+com.tcl.usercenter
+com.tcl.copydatatotv
+com.tcl.common.terminalmanagerplus
+com.tcl.useragreement
+com.google.android.music
+com.android.printspooler
+com.android.gallery3d
+com.android.wallpaper.livepicker
+com.google.android.backdrop
+com.android.dreams.basic
+com.google.android.tts
+com.google.android.marvin.talkback

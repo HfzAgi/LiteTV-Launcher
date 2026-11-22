@@ -1,0 +1,10 @@
+# Xiaomi Mi Box S (MIBOX4, oneday), streaming box, Android 12 update
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.google.android.tvrecommendations
+com.xm.webcontent
+com.mitv.milinkservice
+com.mitv.dream

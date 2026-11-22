@@ -1,0 +1,24 @@
+# Xiaomi MiTV-MSSP1 (nino), firmware PI.5925; also sold as Mi TV 4S
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.xm.webcontent
+com.xiaomi.floatingframe
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+android.autoinstalls.config.xiaomi.amelie
+com.google.android.backdrop
+com.mitv.dream
+com.xiaomi.mitv.tvmanager
+com.google.android.play.games
+com.google.android.videos
+org.chromium.webview_shell
+com.android.printspooler
+com.xiaomi.mimusic2
+com.mitv.gallery
+com.google.android.marvin.talkback
+com.mitv.tvhome.mitvplus
+com.android.dreams.basic

@@ -1,0 +1,24 @@
+# Toshiba 43V35KP (hayward, huashan_emT; Hisense/CVTE board, MediaTek mt5867), EU
+android.autoinstalls.config.hisense.hayward
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.google.android.tvrecommendations
+com.cvte.tv.infoprovider
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.mediatek.wwtv.setupwizard
+com.google.android.onetimeinitializer
+com.at.factory.androidtvaidlservice
+com.at.factory.factorymanager
+com.cvte.tv.at
+com.cvte.tv.fac.menu
+com.cvte.tv.hisensefac
+com.cvte.tv.fac.aging
+mediatek.factorymenu.ui
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.google.android.sss.authbridge
+com.google.android.tungsten.setupwraith
+com.tcl.browser
+com.google.android.backdrop
+com.jio.media.stb.ondemand

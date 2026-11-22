@@ -1,0 +1,27 @@
+# Sony BRAVIA 4K VH21 (XR-55A80K and XR-77A80K, 2022, BRAVIA_VH21, MediaTek mt5895), EU
+tv.samba.ssm
+tv.samba.ssm.ui
+com.sonyericsson.idd.agent
+com.sony.dtv.usercontext
+com.qterics.da.product
+com.sony.dtv.da.service
+com.google.android.feedback
+com.sony.dtv.sonyselect
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.google.android.katniss
+com.sony.dtv.voicesearch
+com.sony.dtv.assistantadapter
+com.google.android.videos
+com.google.android.play.games
+com.vewd.core.service
+com.amazon.amazonvideo.livingroom
+com.sony.dtv.hbbtvplayer
+com.sonyericsson.dlna
+com.sony.huey.dlna.module
+com.sony.huey.dlna.renderersettings
+com.uei.quicksetsdk.sony
+com.sony.dtv.gestureapp
+com.google.android.tts
+com.google.android.tungsten.setupwraith

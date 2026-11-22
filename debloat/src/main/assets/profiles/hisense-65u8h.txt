@@ -1,0 +1,21 @@
+# Hisense 65U8H (wuyishan, MediaTek MT9900), US
+com.hisense.evservice
+android.autoinstalls.config.google.gtvpai
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.syncadapters.calendar
+com.hisense.storemode
+com.hisense.fte
+com.vt.eula
+com.google.android.onetimeinitializer
+com.hisense.hibrowser
+com.hisense.tv.protector
+com.vt.tv.mediacenter
+com.android.printspooler
+com.android.dreams.basic
+com.google.android.youtube.tvmusic
+com.google.android.katniss
+com.google.android.tv.assistant
+com.hisense.alexa
+com.hisense.tv.dlna
+com.google.android.tungsten.setupwraith

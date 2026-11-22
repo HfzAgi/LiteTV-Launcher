@@ -1,0 +1,17 @@
+# Xiaomi Mi Box S 2nd gen (MiTV-AFKR0, jaws), streaming box
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.google.android.feedback
+com.google.android.partnersetup
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.atv
+com.xm.webcontent
+android.autoinstalls.config.xioami.mibox3
+com.xiaomi.mitv.updateservice
+com.amazon.amazonvideo.livingroom
+com.google.android.videos
+com.google.android.play.games
+com.android.printspooler
+com.google.android.tungsten.setupwraith

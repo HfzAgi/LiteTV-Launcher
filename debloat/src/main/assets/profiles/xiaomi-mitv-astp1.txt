@@ -1,0 +1,19 @@
+# Xiaomi MiTV-ASTP1 (maverick), China firmware 2.40.641.0514.cn, 1 GB RAM, 720p
+com.miui.analytics
+com.miui.tv.analytics
+com.mitv.cloudcontrol
+com.xiaomi.mitv.tvpush.tvpushservice
+com.android.smspush
+com.xm.webcontent
+com.mitv.shoplugin
+com.gitvdemo.video
+com.duokan.videodaily
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.upgrade
+com.xiaomi.gamecenter.sdk.service.mibox
+com.xiaomi.mimusic2
+com.xiaomi.tv.gallery
+com.mitv.gallery
+com.xiaomi.screenrecorder
+com.xiaomi.mitv.smartpanel
+com.newtv.cboxtv

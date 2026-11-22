@@ -1,0 +1,27 @@
+# OPPO K9 55 (OPPOCNM632)
+com.heytap.tv.heycast
+com.hpplay.happyplay.aw
+com.apowersoft.mirror.tv
+com.heytap.iot.castservice
+com.heytap.optvmiracastservice
+com.opos.ott
+com.heytap.tv.pictorial
+com.heytap.tv.imagewall
+com.heytap.tv.msgboard
+com.heytap.mcs
+com.nearme.instant.platform.tv
+com.heytap.feedback
+com.heytap.tv.remotediagnosing
+com.oplus.crashbox
+tpv.factorymenu.ui
+mediatek.factorymenu.ui
+com.cvte.factory.service
+com.cvte.factory.at
+com.cvte.fac.menu
+com.cvte.license.at
+com.gaochuang.factory.at
+com.konka.factory.at
+com.heytap.tv.userguide
+com.heytap.tv.oobe
+com.optv.aiengine
+com.heytap.tv.aicaption

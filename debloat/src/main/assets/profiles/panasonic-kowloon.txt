@@ -1,0 +1,27 @@
+# Panasonic Google TV LCD (OZUM_Panasonic, kowloon, MediaTek)
+com.netflix.ninja
+com.amazon.amazonvideo.livingroom
+com.disney.disneyplus
+com.viaplay.android
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.google.android.feedback
+com.vestel.vestelreporter
+fusion.android.tv.demo
+com.android.tv.feedbackconsent
+com.google.android.partnersetup
+com.android.federatedcompute.services
+com.android.htmlviewer
+com.android.backupconfirm
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.android.cameraextensions
+com.android.health.connect.backuprestore
+com.android.hotspot2.osulogin
+com.android.dreams.basic
+com.android.providers.calendar
+com.google.android.syncadapters.calendar
+com.vestel.tv.eib
+com.vewd.core.browser

@@ -1,0 +1,15 @@
+# Sony BRAVIA 9 II (K-65XR90M2, BRAVIA_AE3, MediaTek MT5838)
+tv.samba.ssm
+tv.samba.ssm.ui
+com.qterics.da.product
+com.sony.dtv.da.service
+com.sonyericsson.idd.agent
+com.google.android.feedback
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.sony.dtv.sonytab
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.google.android.apps.mediashell
+com.google.android.tungsten.setupwraith

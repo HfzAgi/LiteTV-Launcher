@@ -1,0 +1,17 @@
+# Redmi TV (MiTV-MFTP0, alita), China firmware 23.2.10.6129
+com.miui.analytics
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs
+com.xiaomi.mitv.csi
+com.mitv.cloudcontrol
+com.xm.webcontent
+com.mitv.shoplugin
+com.xiaomi.mitv.shop
+com.xiaomi.mitv.handbook
+com.xiaomi.gamecenter.sdk.service.mibox
+com.xiaomi.screenrecorder
+com.xiaomi.mitv.calendar
+com.xiaomi.mimusic2
+com.mitv.gallery
+com.xiaomi.smarthome.tv

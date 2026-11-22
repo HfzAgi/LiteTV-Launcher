@@ -1,0 +1,14 @@
+# Motorola MT4310 (Newsan; Hisense board, hayward, MediaTek), Argentina
+android.autoinstalls.config.hisense.hayward
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.google.android.feedback
+com.google.android.partnersetup
+com.mediatek.android.leanbacklauncher.partnercustomizer
+com.android.printspooler
+com.android.providers.calendar
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.google.android.play.games
+com.google.android.marvin.talkback
+com.google.android.tts

@@ -1,0 +1,26 @@
+# Karbonn / Motorola / Thomson SWTV-20AE (Skyworth OEM, SW4H, MediaTek), India
+com.smartdevice.leanbacklauncher.customizer
+com.smartdevice.acr.recommendation
+com.smartdevice.recommendation
+com.smartdevice.epopplayer
+com.Smartdevice.emanual
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+tv.airtel.xstream.tvapp
+com.facebook.katana
+com.community.newroom
+com.community.oneroom
+com.internet.tvbrowser
+com.qjy.browser
+com.yablio.sendfilestotv
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.google.android.backdrop
+com.google.android.tvrecommendations
+com.google.android.play.games
+com.google.android.leanbacklauncher.partnercustomizer
+com.mstar.netflixobserver
+com.google.android.partnersetup
+android.autoinstalls.config.SW
+com.android.printspooler
+com.android.dreams.basic

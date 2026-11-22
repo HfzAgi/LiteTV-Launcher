@@ -1,0 +1,2 @@
+# MECOOL KM2 Plus
+com.google.android.tvrecommendations

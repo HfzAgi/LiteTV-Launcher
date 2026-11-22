@@ -1,0 +1,23 @@
+# Xiaomi MiTV-MOOR2 / MOOR4 / MOOR6 (venom, MediaTek)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.google.android.partnersetup
+fusion.android.tv.demo
+com.xiaomi.mitv.tvmanager
+com.mitv.toolhouse
+com.xiaomi.mitv.manualhelp
+com.xiaomo.tv.milegal
+android.autoinstalls.config.xiaomi.amelie
+com.mitv.milinkservice
+com.xiaomi.mitv.smartshare
+com.xiaomi.wfdsinkhelperservice
+com.graymatrix.did
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.google.android.tungsten.setupwraith

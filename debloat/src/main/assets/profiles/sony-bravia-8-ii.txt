@@ -1,0 +1,15 @@
+# Sony BRAVIA 8 II (K-55XR8M2, BRAVIA_AE2), UK/EU
+tv.samba.ssm
+tv.samba.ssm.ui
+com.qterics.da.product
+com.sony.dtv.da.service
+com.sonyericsson.idd.agent
+com.google.android.feedback
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.sony.dtv.sonytab
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
+com.google.android.play.games
+com.google.android.tungsten.setupwraith

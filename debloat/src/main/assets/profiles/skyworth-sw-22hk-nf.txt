@@ -1,0 +1,18 @@
+# Skyworth SW-22HK NF (SW6H, MediaTek m7332)
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+com.smartdevice.epopplayer
+fusion.android.tv.demo
+com.coocaa.demonow.lightining
+com.smartdevice.myapp
+com.smartdevice.aftersale
+com.smartdevice.dailymanage
+com.google.android.feedback
+com.security.SwaiotTV
+com.amazon.amazonvideo.livingroom
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.play.games
+com.smartdevice.dtv.icast
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

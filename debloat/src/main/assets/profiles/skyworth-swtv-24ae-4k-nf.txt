@@ -1,0 +1,27 @@
+# Skyworth SWTV-24AE-4K NF (eleonas, MediaTek mt5896), South Africa/Global
+com.smartdevice.recordactivation
+com.smartdevice.aftersale
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.android.adservices.api
+com.android.ondevicepersonalization.services
+com.android.federatedcompute.services
+com.smartdevice.recommendation
+com.smartdevice.leanbacklauncher.customizer
+tv.mopa.ginga
+org.obs.mhegservice
+com.android.healthconnect.controller
+com.android.health.connect.backuprestore
+com.Smartdevice.emanual
+com.smartdevice.dailymanage
+com.smartdevice.myapp
+com.google.android.play.games
+com.amazon.amazonvideo.livingroom
+com.google.android.youtube.tvmusic
+com.dstvmobile.android
+tv.sabcplus.vod
+com.stremio.one
+com.smartdevice.dtv.icast
+com.mediatek.tv.systemupdater
+com.google.android.tungsten.setupwraith
+com.google.android.apps.tv.launcherx

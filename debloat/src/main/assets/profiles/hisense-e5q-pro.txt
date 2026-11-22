@@ -1,0 +1,19 @@
+# Hisense E5Q Pro (VIDAA_TV, MediaTek MT9653), China
+com.hisense.business.ad
+com.hisense.service.ad
+com.hisense.platformreport
+com.hisense.logupload
+com.hisense.service.message
+com.hisense.demonstrate
+com.hisense.hotelmenu
+com.hisense.electronictutorial
+com.hisense.ar.baike
+com.vision.aibook
+com.hisense.tv.foodmanage
+com.hisense.tv.fitmirror
+com.hisense.tv.videochat.social
+com.hisense.tv.videoconference
+com.jamdeo.tv.fte
+com.vt.ambiencephoto
+com.hisense.tv.weather
+com.jamdeo.calendar

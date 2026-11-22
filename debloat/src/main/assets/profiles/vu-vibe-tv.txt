@@ -1,0 +1,10 @@
+# Vu VIBE TV (KONKA, bandra, Realtek), India
+tv.anoki.acr.anokiacroptin
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.katniss
+com.google.android.videos
+com.realtek.kara
+com.realtek.karaoke.userguide
+com.konka.livewallpaper
+com.google.android.apps.tv.dreamx

@@ -1,0 +1,13 @@
+# Vu 4K (HVCL, lushan, MediaTek), India
+com.vt.tv.evservice
+com.google.android.feedback
+android.autoinstalls.config.google.gtvpai
+com.vt.storemode
+com.google.android.play.games
+com.google.android.videos
+com.hisense.odinbrowser
+com.vt.hishow
+com.vt.tv.singlelisten
+com.mxtech.videoplayer.television
+com.vt.alexa
+com.google.android.tungsten.setupwraith

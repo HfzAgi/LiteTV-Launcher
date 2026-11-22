@@ -1,0 +1,23 @@
+# Xiaomi Mi TV 4A (MiTV-MOOQ1)
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.xm.webcontent
+com.xiaomi.floatingframe
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.smartshare
+com.mitv.milinkservice
+com.xiaomi.mitv.updateservice
+com.xiaomi.amazon.alexa
+android.autoinstalls.config.xiaomi.amelie
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.google.android.feedback
+com.google.android.apps.tachyon
+fusion.android.tv.demo
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.duokan.factorytest

@@ -1,0 +1,9 @@
+# Skyworth 65A3F (7T641_A3F, MediaTek MT9633), China
+com.tianci.ad
+com.coocaa.screensaver
+com.coocaa.guide
+com.coocaa.NewStoreSystem
+com.tianci.appstore
+com.overseas.store.appstore
+com.skyworth.performance.monitors
+com.skyworth.testtime

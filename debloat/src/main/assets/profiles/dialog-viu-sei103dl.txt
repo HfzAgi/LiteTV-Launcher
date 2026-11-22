@@ -1,0 +1,17 @@
+# Dialog ViU (SEI Robotics SEI103DL, Amlogic, NES middleware), Sri Lanka
+com.nes.tvbugtracker
+com.nes.tr069
+com.google.android.feedback
+com.google.android.tv.bugreportsender
+com.nes.skywayclient
+android.autoinstalls.config.sei
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+com.utsmta.app
+com.android.smspush
+com.google.android.youtube.tvmusic
+com.google.android.videos
+com.google.android.play.games
+com.android.camera2
+com.android.gallery3d
+com.dialog.tv

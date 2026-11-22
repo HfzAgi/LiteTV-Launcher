@@ -1,0 +1,17 @@
+# Vision 2024VISION43STV (CVTE TP.T950D4T.PB751, Amlogic T950D4, 1 GB), Europe
+com.cvte.gaia.ad.service
+com.cvte.wonder.cloud.service
+com.cvte.industries
+com.zeasn.services.general
+com.cvte.tv.pictorial
+com.cvte.tv.weather
+com.cvte.tv.steward
+com.cvte.tv.launcher.space
+com.cvte.tv.launcher.space.skin
+com.netflix.mediaclient
+com.amazon.avod.thirdpartyclient
+com.amazon.amazonvideo.livingroom
+com.amazon.rialto.cordova.webapp.webapp2660c968ef8949678398aeb6fd6cb036
+com.tiktok.tv
+deezer.android.tv
+com.ted.android.tv

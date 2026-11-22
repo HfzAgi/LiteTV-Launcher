@@ -1,0 +1,19 @@
+# MediaTek m7332 board (Chinese "RP" firmware, sold unbranded)
+com.rp.instroduce
+com.rp.uhd
+com.rp.memoryclean
+com.rp.calculator
+com.rp.calendar
+com.rp.writenumbertool
+com.android.toofifi
+com.mphotool.apiservice
+com.fqcx.welcome
+com.fqcx.wb
+com.android.printspooler
+com.mediatek.android.leanbacklauncher.partnercustomizer
+fusion.android.tv.demo
+com.mstar.android.tv.disclaimercustomization
+com.android.providers.calendar
+com.android.dreams.basic
+com.android.wallpaperbackup
+com.rp.launcher

@@ -1,0 +1,23 @@
+# Xiaomi MiTV-MFTR0 (freeguy, MediaTek mt9653), China firmware OS2.0.23.0.RFTMATV (HyperOS TV 2)
+com.miui.tv.analytics
+com.xiaomi.tvqs
+com.xiaomi.mitv.tvpush.tvpushservice
+com.miui.hybrid.tv
+com.xm.webcontent
+com.mitv.shoplugin
+com.xiaomi.mitv.shop
+com.duokan.videodaily
+com.xiaomi.gamecenter.sdk.service.mibox
+com.emotn.browser
+com.xiaomi.mitv.calendar
+com.xiaomi.mitv.health
+com.xiaomi.mitv.healthdiagnosis
+com.xiaomi.mitv.karaoke.service
+com.xiaomi.screenrecorder
+com.xiaomi.tweather
+com.mitv.gallery
+com.xiaomi.tv.gallery
+com.xiaomi.smarthome.tv
+com.xiaomi.mitv.tvmanager
+com.mitv.toolhouse
+com.xiaomi.mitv.hyper.screensaver

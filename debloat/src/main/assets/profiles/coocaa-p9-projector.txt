@@ -1,0 +1,17 @@
+# Coocaa P9 projector (MediaTek mt5862), China
+com.tianci.ad
+com.tianci.push
+com.tianci.autoinstaller
+com.coocaa.sysreport
+com.coocaa.messageprovider
+com.coocaa.screensaver
+com.coocaa.app_browser
+com.coocaa.mitee.tv
+com.coocaa.miitee.guard
+com.coocaa.tvmanager
+com.coocaa.guide
+com.tianci.appstore
+com.coocaa.os.thememanager
+com.coocaa.theme_package_starry_night
+com.coocaa.theme_world_cup
+com.skyworth.angel.voice

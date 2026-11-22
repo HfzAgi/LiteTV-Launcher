@@ -13,6 +13,9 @@ import android.graphics.drawable.GradientDrawable;
 import android.graphics.drawable.StateListDrawable;
 import android.os.Bundle;
 import android.os.Handler;
+import android.util.Log;
+import android.widget.EditText;
+import android.text.InputType;
 import android.os.Looper;
 import android.provider.Settings;
 import android.view.Gravity;
@@ -56,6 +59,7 @@ public class MainActivity extends Activity {
     private int filter = F_SUGGESTED;
     private Boolean root = null; // null = sedang dicek
     private boolean busy = false;
+    private volatile boolean adbConnected = false;
 
     private TextView status;
     private TextView runBtn;
@@ -148,6 +152,12 @@ public class MainActivity extends Activity {
         LinearLayout actions = new LinearLayout(this);
         actions.setOrientation(LinearLayout.HORIZONTAL);
         actions.setPadding(0, dp(8), 0, 0);
+        actions.addView(makeButton("Sambungkan ADB", new Runnable() {
+            @Override
+            public void run() {
+                connectAdb();
+            }
+        }), gap());
         actions.addView(makeButton("Pilih profil", new Runnable() {
             @Override
             public void run() {
@@ -211,16 +221,129 @@ public class MainActivity extends Activity {
             @Override
             public void run() {
                 final boolean ok = RootShell.isRootAvailable();
+                Runner.root = ok;
+                final boolean adbOk = !ok && AdbManager.connectSmart(MainActivity.this) == AdbManager.CONNECTED;
                 ui.post(new Runnable() {
                     @Override
                     public void run() {
                         root = ok;
+                        adbConnected = adbOk;
                         refreshChrome();
                     }
                 });
             }
         }, "root-check").start();
         scan();
+
+        if (getIntent() != null && getIntent().hasExtra("selftest")) runSelfTest();
+    }
+
+    /** Dipakai CI: sambung ke adbd lokal dan jalankan "id". Hasil ditulis ke logcat (tag BERSIH). */
+    private void runSelfTest() {
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    AdbManager m = AdbManager.get(MainActivity.this);
+                    boolean c = m.isConnected() || m.connect("127.0.0.1", 5555);
+                    if (!c) {
+                        Log.i("BERSIH", "SELFTEST GAGAL: tidak bisa sambung");
+                        return;
+                    }
+                    RootShell.Result r = AdbManager.shell(MainActivity.this, "id", 10000);
+                    Log.i("BERSIH", "SELFTEST " + (r.out.contains("uid=") ? "OK " : "GAGAL ") + r.out);
+                } catch (Throwable t) {
+                    Log.i("BERSIH", "SELFTEST GAGAL: " + t);
+                }
+            }
+        }, "selftest").start();
+    }
+
+    // ---------- Sambung ADB ----------
+
+    private void connectAdb() {
+        if (busy) return;
+        if (root != null && root) {
+            toast("Root sudah aktif, tidak perlu ADB.");
+            return;
+        }
+        busy = true;
+        status.setText("Menyambung ke ADB STB…");
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                final int r = AdbManager.connectSmart(MainActivity.this);
+                ui.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        busy = false;
+                        adbConnected = r == AdbManager.CONNECTED;
+                        refreshChrome();
+                        if (r == AdbManager.CONNECTED) {
+                            toast("ADB terhubung.");
+                        } else if (r == AdbManager.PAIRING_REQUIRED) {
+                            askPairingCode();
+                        } else {
+                            showAdbHelp();
+                        }
+                    }
+                });
+            }
+        }, "adb-connect").start();
+    }
+
+    private void showAdbHelp() {
+        new AlertDialog.Builder(this).setTitle("ADB belum bisa tersambung")
+                .setMessage("Di STB: Pengaturan → Preferensi Perangkat → Tentang → tekan \"Build\" 7 kali.\n"
+                        + "Lalu Opsi pengembang → aktifkan \"USB debugging\" dan/atau \"Wireless debugging\".\n"
+                        + "Jika muncul \"Allow USB debugging?\", pilih Allow (centang \"Always allow\").\n\n"
+                        + "Lalu tekan \"Sambungkan ADB\" lagi. Untuk Wireless debugging, buka \"Pair device with pairing code\" "
+                        + "dan masukkan kodenya di sini.")
+                .setNegativeButton("Tutup", null)
+                .setPositiveButton("Masukkan kode pairing", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface d, int w) {
+                        askPairingCode();
+                    }
+                }).show();
+    }
+
+    private void askPairingCode() {
+        final EditText input = new EditText(this);
+        input.setInputType(InputType.TYPE_CLASS_NUMBER);
+        input.setHint("Kode 6 digit");
+        new AlertDialog.Builder(this).setTitle("Pairing Wireless debugging")
+                .setMessage("Buka Opsi pengembang → Wireless debugging → \"Pair device with pairing code\", "
+                        + "lalu ketik kode 6 digit yang tampil. Biarkan layar kode itu terbuka sampai selesai.")
+                .setView(input)
+                .setNegativeButton("Batal", null)
+                .setPositiveButton("Pasangkan", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface d, int w) {
+                        final String code = input.getText().toString().trim();
+                        if (code.length() < 6) {
+                            toast("Kode harus 6 digit.");
+                            return;
+                        }
+                        busy = true;
+                        status.setText("Pairing…");
+                        new Thread(new Runnable() {
+                            @Override
+                            public void run() {
+                                final int r = AdbManager.pairAndConnect(MainActivity.this, code);
+                                ui.post(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        busy = false;
+                                        adbConnected = r == AdbManager.CONNECTED;
+                                        refreshChrome();
+                                        toast(adbConnected ? "Pairing dan koneksi berhasil." : "Pairing gagal. Cek kode dan coba lagi.");
+                                    }
+                                });
+                            }
+                        }, "adb-pair").start();
+                    }
+                }).show();
     }
 
     // ---------- Profil ----------
@@ -383,11 +506,12 @@ public class MainActivity extends Activity {
     }
 
     private void refreshChrome() {
-        String rootText = root == null ? "memeriksa root…" : (root ? "root aktif" : "root TIDAK ditemukan");
+        String rootText = root == null ? "memeriksa root…"
+                : (root ? "root aktif" : (adbConnected ? "ADB terhubung (tanpa root)" : "belum terhubung (tanpa root)"));
         int selected = selectedItems().size();
         status.setText("Status: " + rootText + "   •   " + shown.size() + " aplikasi   •   " + selected + " dipilih"
                 + (filter == F_PROFILE ? "\nProfil: " + profileName : ""));
-        status.setTextColor(root != null && !root ? Color.parseColor("#FBBF24") : Color.parseColor("#94A3B8"));
+        status.setTextColor(root != null && !root && !adbConnected ? Color.parseColor("#FBBF24") : Color.parseColor("#94A3B8"));
         for (int i = 0; i < FILTER_NAMES.length; i++) {
             filterBtns[i].setTextColor(i == filter ? Color.parseColor("#38BDF8") : Color.WHITE);
         }
@@ -430,8 +554,8 @@ public class MainActivity extends Activity {
             toast("Sedang memeriksa root, coba lagi sebentar.");
             return;
         }
-        if (!root) {
-            showAdbCommands(items, enable);
+        if (!root && !adbConnected) {
+            needConnection(items, enable);
             return;
         }
         confirm((enable ? "Aktifkan " : "Nonaktifkan ") + items.size() + " aplikasi?",
@@ -457,8 +581,8 @@ public class MainActivity extends Activity {
             toast("Sedang memeriksa root, coba lagi sebentar.");
             return;
         }
-        if (!root) {
-            showAdbCommands(disabled, true);
+        if (!root && !adbConnected) {
+            needConnection(disabled, true);
             return;
         }
         confirm("Pulihkan " + disabled.size() + " aplikasi?", "Semua aplikasi yang nonaktif akan diaktifkan lagi.",
@@ -468,6 +592,24 @@ public class MainActivity extends Activity {
                         execute(disabled, true);
                     }
                 });
+    }
+
+    private void needConnection(final List<AppItem> items, final boolean enable) {
+        new AlertDialog.Builder(this).setTitle("Belum terhubung")
+                .setMessage("Tanpa root, app perlu tersambung ke ADB STB. Sambungkan sekarang, atau ambil perintah adb untuk dijalankan dari PC.")
+                .setNegativeButton("Batal", null)
+                .setNeutralButton("Perintah adb", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface d, int w) {
+                        showAdbCommands(items, enable);
+                    }
+                })
+                .setPositiveButton("Sambungkan ADB", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface d, int w) {
+                        connectAdb();
+                    }
+                }).show();
     }
 
     private static boolean validPackage(String p) {
@@ -499,7 +641,7 @@ public class MainActivity extends Activity {
                         continue;
                     }
                     String cmd = enable ? "pm enable " + a.pkg : "pm disable-user --user 0 " + a.pkg;
-                    RootShell.Result r = RootShell.run(cmd, 20000);
+                    RootShell.Result r = Runner.run(MainActivity.this, cmd, 20000);
                     boolean success = r.ok() && (r.out.contains("disabled") || r.out.contains("enabled"));
                     if (success) {
                         okCount++;
@@ -561,8 +703,8 @@ public class MainActivity extends Activity {
         StringBuilder preview = new StringBuilder();
         for (int i = 0; i < lines.length && i < 8; i++) preview.append(lines[i]).append('\n');
         if (lines.length > 8) preview.append("… dan ").append(lines.length - 8).append(" lainnya");
-        info("Root tidak ditemukan",
-                "Tanpa root, jalankan perintah ini dari PC lewat adb:\n\n" + preview + path);
+        info("Perintah adb",
+                "Jalankan perintah ini dari PC lewat adb:\n\n" + preview + path);
     }
 
     // ---------- Dialog helpers ----------

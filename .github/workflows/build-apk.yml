@@ -61,7 +61,7 @@ jobs:
           arch: x86_64
           target: default
           disable-animations: true
-          script: sh scripts/ci-test.sh apk/LiteTV-Launcher.apk com.litetv.launcher home screen-launcher.png && sh scripts/ci-test.sh apk/BersihSTB.apk com.litetv.bersih launcher screen-bersih.png && sh scripts/ci-test.sh apk/TV-Home-Bersih.apk com.gathin.tvhome home screen-home.png
+          script: sh scripts/ci-test.sh apk/LiteTV-Launcher.apk com.litetv.launcher home screen-launcher.png && sh scripts/ci-test.sh apk/BersihSTB.apk com.litetv.bersih launcher screen-bersih.png && sh scripts/ci-test.sh apk/TV-Home-Bersih.apk com.gathin.tvhome home screen-home.png && sh scripts/ci-adb-selftest.sh
       - uses: actions/upload-artifact@v4
         if: always()
         with:

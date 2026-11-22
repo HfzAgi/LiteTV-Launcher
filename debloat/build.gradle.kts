@@ -24,3 +24,10 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 }
+
+dependencies {
+    // ADB di dalam app (Wireless debugging / USB debugging lewat jaringan). Lisensi Apache-2.0 dipilih.
+    implementation("com.github.MuntashirAkon:libadb-android:3.1.1")
+    implementation("com.github.MuntashirAkon:sun-security-android:1.1")
+    implementation("org.conscrypt:conscrypt-android:2.5.3")
+}

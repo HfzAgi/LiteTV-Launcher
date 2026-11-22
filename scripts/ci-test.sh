@@ -12,10 +12,10 @@ else
   adb shell am start -W -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n "$PKG/.MainActivity"
 fi
 sleep 8
-PID=$(adb shell pidof "$PKG" | tr -d '\r')
-[ -n "$PID" ] || { echo "GAGAL: proses $PKG tidak berjalan"; adb logcat -d | tail -60; exit 1; }
 if adb logcat -d | grep -q "FATAL EXCEPTION"; then
-  echo "GAGAL: crash terdeteksi"; adb logcat -d | grep -A25 "FATAL EXCEPTION"; exit 1
+  echo "GAGAL: crash terdeteksi"; adb logcat -d | grep -A30 "FATAL EXCEPTION"; exit 1
 fi
+PID=$(adb shell pidof "$PKG" | tr -d '\r')
+[ -n "$PID" ] || { echo "GAGAL: proses $PKG tidak berjalan"; adb logcat -d | grep -E "$PKG|AndroidRuntime|Process.*Sending signal|am_kill|am_crash|am_proc_died" | head -40; exit 1; }
 adb exec-out screencap -p > "$SHOT"
 echo "OK: $PKG terpasang dan berjalan (pid $PID)"
